@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="440" viewBox="0 0 900 440">
+<rect x="0.0" y="0.0" width="900.0" height="440.0" rx="0" fill="#FFF8F0" stroke="none" stroke-width="0" opacity="1"/>
+<rect x="16.0" y="16.0" width="868.0" height="408.0" rx="18" fill="#FFF8F0" stroke="#E4D5C3" stroke-width="2" opacity="1"/>
+<text x="450.0" y="40.0" text-anchor="middle" fill="#1B3A4B" font-family="Trebuchet MS, Segoe UI, sans-serif" font-size="20" font-weight="800" font-style="normal">Cat-cow</text>
+<ellipse cx="210.0" cy="376.0" rx="150.0" ry="10.0" fill="#D7E4DF" stroke="none" stroke-width="0" opacity="0.9"/>
+<ellipse cx="690.0" cy="376.0" rx="150.0" ry="10.0" fill="#D7E4DF" stroke="none" stroke-width="0" opacity="0.9"/>
+<line x1="50.0" y1="368.0" x2="400.0" y2="368.0" stroke="#B7C9C2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<line x1="530.0" y1="368.0" x2="850.0" y2="368.0" stroke="#B7C9C2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<text x="210.0" y="54.0" text-anchor="middle" fill="#E07A2F" font-family="Trebuchet MS, Segoe UI, sans-serif" font-size="16" font-weight="800" font-style="normal">START</text>
+<text x="690.0" y="54.0" text-anchor="middle" fill="#E07A2F" font-family="Trebuchet MS, Segoe UI, sans-serif" font-size="16" font-weight="800" font-style="normal">FINISH</text>
+<line x1="430.0" y1="210.0" x2="500.0" y2="210.0" stroke="#E07A2F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<polyline points="490.8,217.6 500.0,210.0 490.8,202.4" fill="none" stroke="#E07A2F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<ellipse cx="210.0" cy="372.0" rx="100.0" ry="8.0" fill="#B8D9C8" stroke="#7FA893" stroke-width="1" opacity="0.9"/>
+<line x1="265.0" y1="300.0" x2="274.0" y2="332.0" stroke="#1B3A4B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<line x1="274.0" y1="332.0" x2="280.0" y2="360.0" stroke="#1B3A4B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<circle cx="280.0" cy="360.0" r="5.5" fill="#F0C9A0" stroke="#1B3A4B" stroke-width="2" opacity="1"/>
+<line x1="190.0" y1="300.0" x2="170.0" y2="360.0" stroke="#1B3A4B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<circle cx="170.0" cy="360.0" r="7.0" fill="#1B3A4B" stroke="#1B3A4B" stroke-width="1" opacity="1"/>
+<polyline points="265.0,300.0 228.0,320.0 190.0,300.0" fill="none" stroke="#148A8A" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<ellipse cx="190.0" cy="300.0" rx="12.0" ry="9.0" fill="#1B3A4B" stroke="#1B3A4B" stroke-width="1" opacity="1"/>
+<line x1="265.0" y1="300.0" x2="286.0" y2="321.0" stroke="#F0C9A0" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<circle cx="288.0" cy="313.0" r="18.0" fill="#F0C9A0" stroke="#1B3A4B" stroke-width="3" opacity="1"/>
+<path d="M 271.0 309.0 A 18.0 18.0 0 0 1 305.0 309.0 A 16.2 9.9 0 0 0 271.0 309.0 Z" fill="#3A2A1C" stroke="#1B3A4B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="293.0" cy="311.0" r="2.2" fill="#1B3A4B" stroke="none" stroke-width="3" opacity="1"/>
+<circle cx="282.0" cy="312.0" r="2.0" fill="#1B3A4B" stroke="none" stroke-width="3" opacity="1"/>
+<path d="M 282.0 319.0 Q 290.0 324.0 296.0 318.0" fill="none" stroke="#1B3A4B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="690.0" cy="372.0" rx="100.0" ry="8.0" fill="#B8D9C8" stroke="#7FA893" stroke-width="1" opacity="0.9"/>
+<line x1="745.0" y1="300.0" x2="754.0" y2="332.0" stroke="#1B3A4B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<line x1="754.0" y1="332.0" x2="760.0" y2="360.0" stroke="#1B3A4B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<circle cx="760.0" cy="360.0" r="5.5" fill="#F0C9A0" stroke="#1B3A4B" stroke-width="2" opacity="1"/>
+<line x1="670.0" y1="300.0" x2="650.0" y2="360.0" stroke="#1B3A4B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<circle cx="650.0" cy="360.0" r="7.0" fill="#1B3A4B" stroke="#1B3A4B" stroke-width="1" opacity="1"/>
+<polyline points="745.0,300.0 708.0,286.0 670.0,300.0" fill="none" stroke="#148A8A" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<ellipse cx="670.0" cy="300.0" rx="12.0" ry="9.0" fill="#1B3A4B" stroke="#1B3A4B" stroke-width="1" opacity="1"/>
+<line x1="745.0" y1="300.0" x2="773.0" y2="298.0" stroke="#F0C9A0" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<circle cx="775.0" cy="290.0" r="18.0" fill="#F0C9A0" stroke="#1B3A4B" stroke-width="3" opacity="1"/>
+<path d="M 758.0 286.0 A 18.0 18.0 0 0 1 792.0 286.0 A 16.2 9.9 0 0 0 758.0 286.0 Z" fill="#3A2A1C" stroke="#1B3A4B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="780.0" cy="288.0" r="2.2" fill="#1B3A4B" stroke="none" stroke-width="3" opacity="1"/>
+<circle cx="769.0" cy="289.0" r="2.0" fill="#1B3A4B" stroke="none" stroke-width="3" opacity="1"/>
+<path d="M 769.0 296.0 Q 777.0 301.0 783.0 295.0" fill="none" stroke="#1B3A4B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="210.0" y="72.0" text-anchor="middle" fill="#E07A2F" font-family="Trebuchet MS, Segoe UI, sans-serif" font-size="14" font-weight="800" font-style="normal">CAT (round)</text>
+<text x="690.0" y="72.0" text-anchor="middle" fill="#E07A2F" font-family="Trebuchet MS, Segoe UI, sans-serif" font-size="14" font-weight="800" font-style="normal">COW (open)</text>
+<rect x="150.6" y="162.0" width="118.8" height="20.0" rx="8" fill="#fff" stroke="#0F6C6C" stroke-width="1.8" opacity="1"/>
+<text x="210.0" y="177.0" text-anchor="middle" fill="#0F6C6C" font-family="Trebuchet MS, Segoe UI, sans-serif" font-size="13" font-weight="700" font-style="normal">round the back</text>
+<rect x="630.6" y="162.0" width="118.8" height="20.0" rx="8" fill="#fff" stroke="#0F6C6C" stroke-width="1.8" opacity="1"/>
+<text x="690.0" y="177.0" text-anchor="middle" fill="#0F6C6C" font-family="Trebuchet MS, Segoe UI, sans-serif" font-size="13" font-weight="700" font-style="normal">look up gently</text>
+</svg>

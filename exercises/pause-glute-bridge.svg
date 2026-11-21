@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="440" viewBox="0 0 900 440">
+<rect x="0.0" y="0.0" width="900.0" height="440.0" rx="0" fill="#FFF8F0" stroke="none" stroke-width="0" opacity="1"/>
+<rect x="16.0" y="16.0" width="868.0" height="408.0" rx="18" fill="#FFF8F0" stroke="#E4D5C3" stroke-width="2" opacity="1"/>
+<text x="450.0" y="40.0" text-anchor="middle" fill="#1B3A4B" font-family="Trebuchet MS, Segoe UI, sans-serif" font-size="20" font-weight="800" font-style="normal">Pause glute bridge</text>
+<ellipse cx="210.0" cy="376.0" rx="150.0" ry="10.0" fill="#D7E4DF" stroke="none" stroke-width="0" opacity="0.9"/>
+<ellipse cx="690.0" cy="376.0" rx="150.0" ry="10.0" fill="#D7E4DF" stroke="none" stroke-width="0" opacity="0.9"/>
+<line x1="50.0" y1="368.0" x2="400.0" y2="368.0" stroke="#B7C9C2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<line x1="530.0" y1="368.0" x2="850.0" y2="368.0" stroke="#B7C9C2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<text x="210.0" y="54.0" text-anchor="middle" fill="#E07A2F" font-family="Trebuchet MS, Segoe UI, sans-serif" font-size="16" font-weight="800" font-style="normal">START</text>
+<text x="690.0" y="54.0" text-anchor="middle" fill="#E07A2F" font-family="Trebuchet MS, Segoe UI, sans-serif" font-size="16" font-weight="800" font-style="normal">FINISH</text>
+<line x1="430.0" y1="210.0" x2="500.0" y2="210.0" stroke="#E07A2F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<polyline points="490.8,217.6 500.0,210.0 490.8,202.4" fill="none" stroke="#E07A2F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<ellipse cx="210.0" cy="372.0" rx="120.0" ry="8.0" fill="#B8D9C8" stroke="#7FA893" stroke-width="1" opacity="0.9"/>
+<line x1="122.0" y1="350.0" x2="110.0" y2="360.0" stroke="#1B3A4B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<line x1="110.0" y1="360.0" x2="140.0" y2="362.0" stroke="#1B3A4B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<circle cx="140.0" cy="362.0" r="5.0" fill="#F0C9A0" stroke="#1B3A4B" stroke-width="2" opacity="1"/>
+<line x1="122.0" y1="350.0" x2="202.0" y2="350.0" stroke="#148A8A" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<ellipse cx="202.0" cy="350.0" rx="13.0" ry="9.0" fill="#1B3A4B" stroke="#1B3A4B" stroke-width="1" opacity="1"/>
+<line x1="202.0" y1="350.0" x2="262.0" y2="318.0" stroke="#1B3A4B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<line x1="262.0" y1="318.0" x2="310.0" y2="358.0" stroke="#1B3A4B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<polyline points="304.0,360.0 310.0,358.0 326.0,360.0" fill="none" stroke="#1B3A4B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<circle cx="85.0" cy="348.0" r="18.0" fill="#F0C9A0" stroke="#1B3A4B" stroke-width="3" opacity="1"/>
+<path d="M 75.0 338.0 A 18.0 18.0 0 0 1 97.0 342.0" fill="#3A2A1C" stroke="#1B3A4B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="89.0" cy="346.0" r="2.1" fill="#1B3A4B" stroke="none" stroke-width="3" opacity="1"/>
+<path d="M 83.0 354.0 Q 91.0 358.0 95.0 353.0" fill="none" stroke="#1B3A4B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="690.0" cy="372.0" rx="120.0" ry="8.0" fill="#B8D9C8" stroke="#7FA893" stroke-width="1" opacity="0.9"/>
+<line x1="602.0" y1="350.0" x2="590.0" y2="360.0" stroke="#1B3A4B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<line x1="590.0" y1="360.0" x2="620.0" y2="362.0" stroke="#1B3A4B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<circle cx="620.0" cy="362.0" r="5.0" fill="#F0C9A0" stroke="#1B3A4B" stroke-width="2" opacity="1"/>
+<line x1="602.0" y1="350.0" x2="682.0" y2="306.0" stroke="#148A8A" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<ellipse cx="682.0" cy="306.0" rx="13.0" ry="9.0" fill="#1B3A4B" stroke="#1B3A4B" stroke-width="1" opacity="1"/>
+<line x1="682.0" y1="306.0" x2="742.0" y2="318.0" stroke="#1B3A4B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<line x1="742.0" y1="318.0" x2="790.0" y2="358.0" stroke="#1B3A4B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<polyline points="784.0,360.0 790.0,358.0 806.0,360.0" fill="none" stroke="#1B3A4B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" opacity="1"/>
+<circle cx="565.0" cy="348.0" r="18.0" fill="#F0C9A0" stroke="#1B3A4B" stroke-width="3" opacity="1"/>
+<path d="M 555.0 338.0 A 18.0 18.0 0 0 1 577.0 342.0" fill="#3A2A1C" stroke="#1B3A4B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="569.0" cy="346.0" r="2.1" fill="#1B3A4B" stroke="none" stroke-width="3" opacity="1"/>
+<path d="M 563.0 354.0 Q 571.0 358.0 575.0 353.0" fill="none" stroke="#1B3A4B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="650.0" y="78.0" width="80.0" height="20.0" rx="8" fill="#E07A2F" stroke="#1B3A4B" stroke-width="1.5" opacity="1"/>
+<text x="690.0" y="93.0" text-anchor="middle" fill="#fff" font-family="Trebuchet MS, Segoe UI, sans-serif" font-size="11" font-weight="700" font-style="normal">PAUSE 2s</text>
+<rect x="650.6" y="237.0" width="118.8" height="20.0" rx="8" fill="#fff" stroke="#0F6C6C" stroke-width="1.8" opacity="1"/>
+<text x="710.0" y="252.0" text-anchor="middle" fill="#0F6C6C" font-family="Trebuchet MS, Segoe UI, sans-serif" font-size="13" font-weight="700" font-style="normal">squeeze glutes</text>
+<rect x="568.6" y="187.0" width="82.8" height="20.0" rx="8" fill="#fff" stroke="#0F6C6C" stroke-width="1.8" opacity="1"/>
+<text x="610.0" y="202.0" text-anchor="middle" fill="#0F6C6C" font-family="Trebuchet MS, Segoe UI, sans-serif" font-size="13" font-weight="700" font-style="normal">ribs down</text>
+</svg>

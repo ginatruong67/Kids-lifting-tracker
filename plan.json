@@ -1,0 +1,5502 @@
+{
+  "schemaVersion": 1,
+  "kidId": "tyler",
+  "kidName": "Tyler",
+  "coachName": "Kids Lifting Coach",
+  "coachEmail": "grok.robotz@gmail.com",
+  "unit": "lb",
+  "equipment": [
+    {
+      "id": "dumbbells-2lb",
+      "name": "One pair of 2 lb dumbbells"
+    },
+    {
+      "id": "bands",
+      "name": "Resistance bands (generic light/medium set; no assumed poundages)"
+    },
+    {
+      "id": "pull-up-bar",
+      "name": "Doorway pull-up bar (in daddy's room; check it is secure every time)"
+    },
+    {
+      "id": "step-stool",
+      "name": "Sturdy step stool on a non-slip floor"
+    }
+  ],
+  "forbiddenEquipment": [
+    "laundry basket (unsafe as a bench)",
+    "bench",
+    "barbell",
+    "plates"
+  ],
+  "safety": [
+    "A grown-up watches every session \u2014 strength nights and Tyler's Ten.",
+    "If anything hurts (sharp, pinchy, or ouchy \u2014 not just 'this is hard work'), stop right away and tell a grown-up.",
+    "Form comes before weight, reps, or going faster. A tidy set of 6 beats a sloppy set of 12.",
+    "Never swing, kip, or horse around on the pull-up bar.",
+    "Before any hang or band-on-the-bar move, a grown-up checks that the pull-up bar is tight and secure in the doorway.",
+    "Put the step stool on a non-slip floor, and have a grown-up stand close for step-ups and incline push-ups.",
+    "Leave 2 or 3 reps in the tank. We never go to failure \u2014 stop while the move still looks snappy.",
+    "No laundry baskets, chairs that roll, or wobbly benches. Floor, step stool, or the bar only."
+  ],
+  "notesForParent": [
+    "This is fitness guidance only, not medical advice. If you have any concern about Tyler's health, pain, growth, or weight, check with his pediatrician.",
+    "Tyler is 9, lean, and already plays a lot of tennis. The plan stays short (20\u201325 minutes on lift nights) and never stacks two lifting days in a row.",
+    "Friday stays easy on his legs so he is fresh for Saturday's private lesson and Sunday matches.",
+    "He wanted to train every night, so Tuesday, Thursday, Saturday, and Sunday are Tyler's Ten: about 10 easy minutes of core, stretching, mobility, and balance \u2014 not another hard workout. After tennis is fine; skip any move that feels like too much that day.",
+    "The plan is fully doable with what you have now: a pair of 2 lb dumbbells, a generic light/medium resistance band set, the doorway pull-up bar, and a sturdy step stool. Progression uses reps, tempo, and harder bodyweight or band variations \u2014 not heavier loads he does not have yet.",
+    "If you buy a little more gear later, the plan notes where it can be swapped in. Do not jump more than one step at a time.",
+    "Double progression: only move to the next small step when every set hits the top of the rep range with clean form. If reps were missed or it felt hard, repeat the same target next time. Never jump more than one step.",
+    "Public files and the phone app use his first name only: Tyler."
+  ],
+  "recommendedPurchases": [
+    {
+      "item": "A few light dumbbell pairs (about 3, 5, and 8 lb)",
+      "why": "The 2 lb pair is perfect for learning curls, presses, and hinges. When Tyler owns the top of a rep range with tidy form, a slightly heavier pair is the next honest step \u2014 still kid-sized, not adult weights.",
+      "swapIn": "Goblet squats, Romanian deadlifts, curls, and overhead presses. Keep 2s for warm-up or slower tempo work."
+    },
+    {
+      "item": "A mini-band loop set (light and medium)",
+      "why": "Small loops are great for sideways steps, glute activation, and knee tracking on squats \u2014 all tennis-friendly hip and landing strength \u2014 without tiring him out like extra running would.",
+      "swapIn": "Banded side steps on Tyler's Ten or Monday warm-ups, and a light loop above the knees on glute bridges or squats."
+    },
+    {
+      "item": "A pull-up assist (long) band",
+      "why": "A sturdy assist band lets Tyler practice a real pull-up pattern with his feet lightly helped, instead of only short hangs. Safer and more useful than trying to yank himself up.",
+      "swapIn": "Replace or follow the dead hang / scapular shrug work on Friday once a grown-up has fitted the band on the checked-secure bar."
+    }
+  ],
+  "split": {
+    "Monday": "Lower",
+    "Wednesday": "Full (upper primary + easy lower)",
+    "Friday": "Upper, easy on the legs",
+    "why": "Tyler has tennis class Tuesday and Thursday, a private lesson Saturday, and 2\u20133 hours of matches Sunday. Strength nights are Monday, Wednesday, and Friday so he never lifts two days in a row. Monday is the lower-body night because it sits farthest from the weekend matches. Wednesday is a full-body night with only easy lower work (glute bridges, not step-ups or hard squats) so he practices the hinge and core without loading tired tennis legs. Friday is upper only \u2014 no squats, step-ups, or hard calf work \u2014 so his legs stay fresh for Saturday and Sunday."
+  },
+  "schedule": {
+    "strengthDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "tylersTenDays": [
+      "Tuesday",
+      "Thursday",
+      "Saturday",
+      "Sunday"
+    ],
+    "strengthMinutes": "20-25",
+    "tylersTenMinutes": "10"
+  },
+  "progression": {
+    "style": "double-progression",
+    "rules": [
+      "Add the smallest available step only when every set hits the top of the rep range with clean form.",
+      "If reps were missed or it felt hard, repeat the same target next time.",
+      "Never jump more than one step.",
+      "A 'step' can be more reps inside the range, a slower tempo, a slightly harder bodyweight or band variation, or \u2014 later \u2014 the next light dumbbell pair if you buy one.",
+      "Never train to failure. Stop with 2 or 3 reps in the tank."
+    ],
+    "phases": [
+      {
+        "weeks": [
+          1,
+          2,
+          3
+        ],
+        "id": "technique",
+        "label": "Learn the moves"
+      },
+      {
+        "weeks": [
+          4
+        ],
+        "id": "deload",
+        "label": "Easy technique week"
+      },
+      {
+        "weeks": [
+          5,
+          6,
+          7
+        ],
+        "id": "build",
+        "label": "Build it up"
+      },
+      {
+        "weeks": [
+          8
+        ],
+        "id": "deload",
+        "label": "Easy recovery week"
+      },
+      {
+        "weeks": [
+          9,
+          10,
+          11
+        ],
+        "id": "strength",
+        "label": "Get stronger \u2014 never to failure"
+      },
+      {
+        "weeks": [
+          12
+        ],
+        "id": "celebration",
+        "label": "Form check and celebration"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "safety",
+      "title": "Safety First",
+      "items": [
+        "A grown-up watches every session \u2014 strength nights and Tyler's Ten.",
+        "If anything hurts (sharp, pinchy, or ouchy \u2014 not just 'this is hard work'), stop right away and tell a grown-up.",
+        "Form comes before weight, reps, or going faster. A tidy set of 6 beats a sloppy set of 12.",
+        "Never swing, kip, or horse around on the pull-up bar.",
+        "Before any hang or band-on-the-bar move, a grown-up checks that the pull-up bar is tight and secure in the doorway.",
+        "Put the step stool on a non-slip floor, and have a grown-up stand close for step-ups and incline push-ups.",
+        "Leave 2 or 3 reps in the tank. We never go to failure \u2014 stop while the move still looks snappy.",
+        "No laundry baskets, chairs that roll, or wobbly benches. Floor, step stool, or the bar only."
+      ]
+    },
+    {
+      "id": "strength",
+      "title": "Strength nights",
+      "blurb": "Monday, Wednesday, and Friday evenings, about 20 to 25 minutes."
+    },
+    {
+      "id": "tylers-ten",
+      "title": "Tyler's Ten",
+      "minutes": 10,
+      "days": [
+        "Tuesday",
+        "Thursday",
+        "Saturday",
+        "Sunday"
+      ],
+      "blurb": "About 10 easy minutes after tennis (or in the evening). Light core, stretching, mobility, and balance. It should feel like a reset, not a workout. Skip any move that feels like too much that day.",
+      "checklist": [
+        {
+          "exerciseId": "cat-cow",
+          "sets": 1,
+          "reps": "5 slow reps",
+          "target": "Easy breathing. No forcing.",
+          "restSec": 0,
+          "load": "as written",
+          "eachSide": false
+        },
+        {
+          "exerciseId": "hip-flexor-stretch",
+          "sets": 1,
+          "reps": "20 seconds each",
+          "target": "Gentle stretch after tennis.",
+          "restSec": 0,
+          "load": "as written",
+          "eachSide": true,
+          "holdSec": 20
+        },
+        {
+          "exerciseId": "hamstring-stretch",
+          "sets": 1,
+          "reps": "20 seconds each",
+          "target": "Soft knee, long back, no bouncing.",
+          "restSec": 0,
+          "load": "as written",
+          "eachSide": true,
+          "holdSec": 20
+        },
+        {
+          "exerciseId": "chest-opener",
+          "sets": 1,
+          "reps": "20 seconds",
+          "target": "Open up the shoulders after all those swings.",
+          "restSec": 0,
+          "load": "as written",
+          "eachSide": false,
+          "holdSec": 20
+        },
+        {
+          "exerciseId": "single-leg-balance",
+          "sets": 1,
+          "reps": "20 seconds each",
+          "target": "Tennis footwork balance. Use a wall if you wobble.",
+          "restSec": 0,
+          "load": "as written",
+          "eachSide": true,
+          "holdSec": 20
+        },
+        {
+          "exerciseId": "calf-stretch",
+          "sets": 1,
+          "reps": "20 seconds each",
+          "target": "Heel down, easy stretch.",
+          "restSec": 0,
+          "load": "as written",
+          "eachSide": true,
+          "holdSec": 20
+        },
+        {
+          "exerciseId": "dead-bug",
+          "sets": 1,
+          "reps": "4 each side",
+          "target": "Slow and easy. Quality only.",
+          "restSec": 0,
+          "load": "as written",
+          "eachSide": true
+        },
+        {
+          "exerciseId": "easy-breathing",
+          "sets": 1,
+          "reps": "4 breaths",
+          "target": "Finish calm.",
+          "restSec": 0,
+          "load": "as written",
+          "eachSide": false
+        }
+      ]
+    }
+  ],
+  "exercises": {
+    "march-in-place": {
+      "name": "Easy march in place",
+      "cues": [
+        "Soft quiet feet.",
+        "Swing the arms gently.",
+        "This is a warm-up, not a race."
+      ],
+      "equipment": [
+        "none"
+      ],
+      "swapIn": null,
+      "illustration": "exercises/march-in-place.svg",
+      "illustrationPng": "exercises/march-in-place.png"
+    },
+    "arm-circles": {
+      "name": "Arm circles",
+      "cues": [
+        "Big slow circles.",
+        "Stand tall.",
+        "Reverse direction halfway."
+      ],
+      "equipment": [
+        "none"
+      ],
+      "swapIn": null,
+      "illustration": "exercises/arm-circles.svg",
+      "illustrationPng": "exercises/arm-circles.png"
+    },
+    "band-pull-apart": {
+      "name": "Band pull-apart",
+      "cues": [
+        "Hold the band at chest height, soft elbows.",
+        "Pull the hands apart until the band touches the chest.",
+        "Squeeze the shoulder blades, then return slow."
+      ],
+      "equipment": [
+        "bands"
+      ],
+      "swapIn": null,
+      "illustration": "exercises/band-pull-apart.svg",
+      "illustrationPng": "exercises/band-pull-apart.png"
+    },
+    "easy-squat-rehearsal": {
+      "name": "Easy squat rehearsal",
+      "cues": [
+        "Sit back like a chair.",
+        "Toes forward, knees follow the toes.",
+        "Only go as low as you can stay tall."
+      ],
+      "equipment": [
+        "none"
+      ],
+      "swapIn": null,
+      "illustration": "exercises/easy-squat-rehearsal.svg",
+      "illustrationPng": "exercises/easy-squat-rehearsal.png",
+      "videoUrl": "https://www.youtube.com/watch?v=m0GcZ24pK6k",
+      "videoTitle": "How to do a body weight squat",
+      "videoSource": "Bupa Health"
+    },
+    "bw-squat": {
+      "name": "Bodyweight squat",
+      "cues": [
+        "Sit back, chest proud, heels stay down.",
+        "Knees track over the toes \u2014 they do not cave in.",
+        "Stand up tall at the top without leaning forward."
+      ],
+      "equipment": [
+        "none"
+      ],
+      "swapIn": "A light goblet dumbbell (3\u20138 lb) once 2s feel very easy at the top of the range.",
+      "illustration": "exercises/bw-squat.svg",
+      "illustrationPng": "exercises/bw-squat.png",
+      "videoUrl": "https://www.youtube.com/watch?v=m0GcZ24pK6k",
+      "videoTitle": "How to do a body weight squat",
+      "videoSource": "Bupa Health"
+    },
+    "pause-squat": {
+      "name": "Pause squat",
+      "cues": [
+        "Same tidy squat, then wait 2 seconds at the bottom.",
+        "Do not bounce.",
+        "Stand up without rushing."
+      ],
+      "equipment": [
+        "none"
+      ],
+      "swapIn": "Goblet pause squat with a 3\u20138 lb dumbbell later.",
+      "illustration": "exercises/pause-squat.svg",
+      "illustrationPng": "exercises/pause-squat.png",
+      "videoUrl": "https://www.youtube.com/watch?v=m0GcZ24pK6k",
+      "videoTitle": "How to do a body weight squat",
+      "videoSource": "Bupa Health"
+    },
+    "goblet-squat-2lb": {
+      "name": "Goblet squat (2 lb)",
+      "cues": [
+        "Hold one 2 lb dumbbell at the chest with both hands.",
+        "Sit back, elbows stay inside the knees.",
+        "Proud chest all the way up."
+      ],
+      "equipment": [
+        "dumbbells-2lb"
+      ],
+      "swapIn": "A 3, 5, or 8 lb dumbbell when every set hits the top of the range with clean form.",
+      "illustration": "exercises/goblet-squat-2lb.svg",
+      "illustrationPng": "exercises/goblet-squat-2lb.png",
+      "videoUrl": "https://www.youtube.com/watch?v=nfX7IFK9UNI",
+      "videoTitle": "How to do a Goblet Squat | Proper Form & Technique",
+      "videoSource": "NASM"
+    },
+    "tempo-goblet-squat-2lb": {
+      "name": "Slow goblet squat (2 lb)",
+      "cues": [
+        "Count 3 seconds on the way down.",
+        "Gentle 1-second pause.",
+        "Stand up in 1 second, no bounce."
+      ],
+      "equipment": [
+        "dumbbells-2lb"
+      ],
+      "swapIn": "Same tempo with a slightly heavier goblet dumbbell later.",
+      "illustration": "exercises/tempo-goblet-squat-2lb.svg",
+      "illustrationPng": "exercises/tempo-goblet-squat-2lb.png",
+      "videoUrl": "https://www.youtube.com/watch?v=nfX7IFK9UNI",
+      "videoTitle": "How to do a Goblet Squat | Proper Form & Technique",
+      "videoSource": "NASM"
+    },
+    "hip-hinge": {
+      "name": "Hip hinge practice",
+      "cues": [
+        "Soft knees, push the hips back like you are closing a car door.",
+        "Keep the back long and the chest proud.",
+        "You should feel it in the back of the legs, not the low back."
+      ],
+      "equipment": [
+        "none"
+      ],
+      "swapIn": null,
+      "illustration": "exercises/hip-hinge.svg",
+      "illustrationPng": "exercises/hip-hinge.png",
+      "videoUrl": "https://www.youtube.com/watch?v=V8Hdl1FiNt4",
+      "videoTitle": "How to Do a Dumbbell Romanian Deadlift | Proper Form & Technique",
+      "videoSource": "NASM"
+    },
+    "rdl-2lb": {
+      "name": "Romanian deadlift (2 lb)",
+      "cues": [
+        "Dumbbells slide down the front of the legs.",
+        "Hips back, back long, eyes on a spot on the floor a few feet ahead.",
+        "Squeeze the glutes to stand tall \u2014 do not lean back."
+      ],
+      "equipment": [
+        "dumbbells-2lb"
+      ],
+      "swapIn": "Heavier light dumbbells (3\u20138 lb) once the 2s feel very easy with perfect hinges.",
+      "illustration": "exercises/rdl-2lb.svg",
+      "illustrationPng": "exercises/rdl-2lb.png",
+      "videoUrl": "https://www.youtube.com/watch?v=V8Hdl1FiNt4",
+      "videoTitle": "How to Do a Dumbbell Romanian Deadlift | Proper Form & Technique",
+      "videoSource": "NASM"
+    },
+    "pause-rdl-2lb": {
+      "name": "Pause Romanian deadlift (2 lb)",
+      "cues": [
+        "Same hinge, pause 2 seconds at the bottom while the back stays long.",
+        "No rounding.",
+        "Stand tall with the glutes."
+      ],
+      "equipment": [
+        "dumbbells-2lb"
+      ],
+      "swapIn": "Pause RDLs with a slightly heavier pair later.",
+      "illustration": "exercises/pause-rdl-2lb.svg",
+      "illustrationPng": "exercises/pause-rdl-2lb.png",
+      "videoUrl": "https://www.youtube.com/watch?v=V8Hdl1FiNt4",
+      "videoTitle": "How to Do a Dumbbell Romanian Deadlift | Proper Form & Technique",
+      "videoSource": "NASM"
+    },
+    "step-up": {
+      "name": "Step-up on the stool",
+      "cues": [
+        "Whole foot on the stool, not just the toes.",
+        "Stand tall at the top, then step down slowly.",
+        "A grown-up stands close. Stool is on a non-slip floor."
+      ],
+      "equipment": [
+        "step-stool"
+      ],
+      "swapIn": "Hold 2s, then later a slightly heavier pair, once unweighted step-ups look easy.",
+      "illustration": "exercises/step-up.svg",
+      "illustrationPng": "exercises/step-up.png",
+      "videoUrl": "https://www.mayoclinic.org/healthy-lifestyle/fitness/multimedia/step-up/vid-20084661",
+      "videoTitle": "Step-up exercise",
+      "videoSource": "Mayo Clinic"
+    },
+    "slow-step-up": {
+      "name": "Slow step-down on the stool",
+      "cues": [
+        "Step up as usual, then take 3 seconds to step down.",
+        "The standing leg does the work.",
+        "Grown-up close by, stool on a non-slip floor."
+      ],
+      "equipment": [
+        "step-stool"
+      ],
+      "swapIn": "Add 2 lb dumbbells at the sides when the slow step-down is tidy.",
+      "illustration": "exercises/slow-step-up.svg",
+      "illustrationPng": "exercises/slow-step-up.png",
+      "videoUrl": "https://www.mayoclinic.org/healthy-lifestyle/fitness/multimedia/step-up/vid-20084661",
+      "videoTitle": "Step-up exercise",
+      "videoSource": "Mayo Clinic"
+    },
+    "step-up-2lb": {
+      "name": "Step-up with 2 lb dumbbells",
+      "cues": [
+        "Hold the 2s at your sides.",
+        "Whole foot on the stool, stand tall, step down slow.",
+        "Grown-up close by."
+      ],
+      "equipment": [
+        "step-stool",
+        "dumbbells-2lb"
+      ],
+      "swapIn": "A slightly heavier pair later \u2014 only after these look easy.",
+      "illustration": "exercises/step-up-2lb.svg",
+      "illustrationPng": "exercises/step-up-2lb.png",
+      "videoUrl": "https://www.mayoclinic.org/healthy-lifestyle/fitness/multimedia/step-up/vid-20084661",
+      "videoTitle": "Step-up exercise",
+      "videoSource": "Mayo Clinic"
+    },
+    "calf-raise": {
+      "name": "Calf raise",
+      "cues": [
+        "Rise up on both feet, pause a moment at the top.",
+        "Lower slowly.",
+        "Hold a wall or a grown-up's hand if you need balance."
+      ],
+      "equipment": [
+        "none"
+      ],
+      "swapIn": null,
+      "illustration": "exercises/calf-raise.svg",
+      "illustrationPng": "exercises/calf-raise.png",
+      "videoUrl": "https://www.mayoclinic.org/healthy-lifestyle/fitness/multimedia/calf-raise/vid-20084681",
+      "videoTitle": "Calf raise with dumbbell",
+      "videoSource": "Mayo Clinic"
+    },
+    "calf-raise-step": {
+      "name": "Calf raise on the stool",
+      "cues": [
+        "Balls of the feet on the stool, heels can dip a little, then rise high.",
+        "Hold a wall or grown-up for balance.",
+        "Stool on a non-slip floor. No bouncing."
+      ],
+      "equipment": [
+        "step-stool"
+      ],
+      "swapIn": null,
+      "illustration": "exercises/calf-raise-step.svg",
+      "illustrationPng": "exercises/calf-raise-step.png"
+    },
+    "pause-calf-raise": {
+      "name": "Pause calf raise on the stool",
+      "cues": [
+        "Same calf raise, squeeze 2 seconds at the top.",
+        "Lower slowly.",
+        "Hold on for balance."
+      ],
+      "equipment": [
+        "step-stool"
+      ],
+      "swapIn": "Single-leg calf raises later, only when two-foot pauses are easy \u2014 and never to failure.",
+      "illustration": "exercises/pause-calf-raise.svg",
+      "illustrationPng": "exercises/pause-calf-raise.png"
+    },
+    "glute-bridge": {
+      "name": "Glute bridge",
+      "cues": [
+        "Lie on your back, feet flat, knees bent.",
+        "Squeeze the glutes to lift the hips, not the low back.",
+        "Lower slowly."
+      ],
+      "equipment": [
+        "none"
+      ],
+      "swapIn": "A mini-band loop just above the knees later, if you buy a loop set.",
+      "illustration": "exercises/glute-bridge.svg",
+      "illustrationPng": "exercises/glute-bridge.png",
+      "videoUrl": "https://www.youtube.com/watch?v=XLXGydU5DdU",
+      "videoTitle": "How to do a glute bridge",
+      "videoSource": "Bupa Health"
+    },
+    "pause-glute-bridge": {
+      "name": "Pause glute bridge",
+      "cues": [
+        "Same bridge, pause 2 seconds at the top.",
+        "Ribs stay down, squeeze the glutes.",
+        "Lower slowly."
+      ],
+      "equipment": [
+        "none"
+      ],
+      "swapIn": "Mini-band above the knees later.",
+      "illustration": "exercises/pause-glute-bridge.svg",
+      "illustrationPng": "exercises/pause-glute-bridge.png",
+      "videoUrl": "https://www.youtube.com/watch?v=XLXGydU5DdU",
+      "videoTitle": "How to do a glute bridge",
+      "videoSource": "Bupa Health"
+    },
+    "incline-pushup": {
+      "name": "Incline push-up (hands on stool)",
+      "cues": [
+        "Hands on the stool, body in a straight line from head to heels.",
+        "Elbows about 45 degrees, not flared out to a T.",
+        "Lower until the chest comes close, then press up. Stool on a non-slip floor."
+      ],
+      "equipment": [
+        "step-stool"
+      ],
+      "swapIn": null,
+      "illustration": "exercises/incline-pushup.svg",
+      "illustrationPng": "exercises/incline-pushup.png",
+      "videoUrl": "https://www.youtube.com/watch?v=0JUrOH--Kdk",
+      "videoTitle": "How to do an Incline Push-Up | Proper Form & Technique",
+      "videoSource": "NASM"
+    },
+    "tempo-incline-pushup": {
+      "name": "Slow incline push-up",
+      "cues": [
+        "Same incline push-up, 3 seconds down, 1 second up.",
+        "Body stays a straight board.",
+        "Stop with 2 or 3 reps left."
+      ],
+      "equipment": [
+        "step-stool"
+      ],
+      "swapIn": null,
+      "illustration": "exercises/tempo-incline-pushup.svg",
+      "illustrationPng": "exercises/tempo-incline-pushup.png",
+      "videoUrl": "https://www.youtube.com/watch?v=0JUrOH--Kdk",
+      "videoTitle": "How to do an Incline Push-Up | Proper Form & Technique",
+      "videoSource": "NASM"
+    },
+    "knee-pushup": {
+      "name": "Knee push-up",
+      "cues": [
+        "Hands under the shoulders, body straight from head to knees.",
+        "Lower with control, press up without sagging the hips.",
+        "If this gets sloppy, go back to incline push-ups."
+      ],
+      "equipment": [
+        "none"
+      ],
+      "swapIn": "Full push-ups later, only if every knee-push-up looks like a board \u2014 and never to failure.",
+      "illustration": "exercises/knee-pushup.svg",
+      "illustrationPng": "exercises/knee-pushup.png",
+      "videoUrl": "https://www.youtube.com/watch?v=PDr5B2jLUOw",
+      "videoTitle": "How to do a Modified Push-Up | Proper Form & Technique",
+      "videoSource": "NASM"
+    },
+    "band-row": {
+      "name": "Band row",
+      "cues": [
+        "Loop the band over the checked-secure pull-up bar.",
+        "Pull the elbows back, squeeze the shoulder blades, stand tall.",
+        "Return slow. No leaning way back."
+      ],
+      "equipment": [
+        "bands",
+        "pull-up-bar"
+      ],
+      "swapIn": "A slightly thicker band, or later a one-arm dumbbell row with a 3\u20138 lb weight, hand supported on the stool.",
+      "illustration": "exercises/band-row.svg",
+      "illustrationPng": "exercises/band-row.png"
+    },
+    "pause-band-row": {
+      "name": "Pause band row",
+      "cues": [
+        "Same row, pause 2 seconds when the hands are by the ribs.",
+        "Squeeze the shoulder blades.",
+        "Return slow."
+      ],
+      "equipment": [
+        "bands",
+        "pull-up-bar"
+      ],
+      "swapIn": "One-arm dumbbell rows later if you buy slightly heavier dumbbells.",
+      "illustration": "exercises/pause-band-row.svg",
+      "illustrationPng": "exercises/pause-band-row.png"
+    },
+    "oh-press-2lb": {
+      "name": "Overhead press (2 lb)",
+      "cues": [
+        "Start with the dumbbells at the shoulders.",
+        "Press straight up, head stays neutral, ribs stay down (no big back arch).",
+        "Lower slowly to the shoulders."
+      ],
+      "equipment": [
+        "dumbbells-2lb"
+      ],
+      "swapIn": "A 3 or 5 lb pair once the 2s are very easy at the top of the range.",
+      "illustration": "exercises/oh-press-2lb.svg",
+      "illustrationPng": "exercises/oh-press-2lb.png"
+    },
+    "pause-oh-press-2lb": {
+      "name": "Pause overhead press (2 lb)",
+      "cues": [
+        "Same press, pause 1\u20132 seconds at the top without shrugging the ears.",
+        "Ribs down.",
+        "Lower slowly."
+      ],
+      "equipment": [
+        "dumbbells-2lb"
+      ],
+      "swapIn": "Slightly heavier light dumbbells later.",
+      "illustration": "exercises/pause-oh-press-2lb.svg",
+      "illustrationPng": "exercises/pause-oh-press-2lb.png"
+    },
+    "curl-2lb": {
+      "name": "Biceps curl (2 lb)",
+      "cues": [
+        "Elbows stay by the sides \u2014 no swinging.",
+        "Curl up, squeeze, lower slowly.",
+        "Have fun with these \u2014 they are in the plan on purpose."
+      ],
+      "equipment": [
+        "dumbbells-2lb"
+      ],
+      "swapIn": "A 3 or 5 lb pair once every set hits the top of the range with no swing.",
+      "illustration": "exercises/curl-2lb.svg",
+      "illustrationPng": "exercises/curl-2lb.png",
+      "videoUrl": "https://www.mayoclinic.org/healthy-lifestyle/fitness/multimedia/biceps-curl/vid-20084675",
+      "videoTitle": "Biceps curl with dumbbell",
+      "videoSource": "Mayo Clinic"
+    },
+    "tempo-curl-2lb": {
+      "name": "Slow biceps curl (2 lb)",
+      "cues": [
+        "Curl up in 1 second, lower in 3 seconds.",
+        "No swinging the torso.",
+        "Elbows stay by the sides."
+      ],
+      "equipment": [
+        "dumbbells-2lb"
+      ],
+      "swapIn": "Same slow tempo with a slightly heavier pair later.",
+      "illustration": "exercises/tempo-curl-2lb.svg",
+      "illustrationPng": "exercises/tempo-curl-2lb.png",
+      "videoUrl": "https://www.mayoclinic.org/healthy-lifestyle/fitness/multimedia/biceps-curl/vid-20084675",
+      "videoTitle": "Biceps curl with dumbbell",
+      "videoSource": "Mayo Clinic"
+    },
+    "dead-hang-supported": {
+      "name": "Supported dead hang",
+      "cues": [
+        "Grown-up checks the bar first.",
+        "Hold the bar, keep both feet on the floor or a stool so you can stand anytime.",
+        "Bend the knees a little to let the arms feel a gentle hang. No swinging. Stand up whenever you want."
+      ],
+      "equipment": [
+        "pull-up-bar"
+      ],
+      "swapIn": "A pull-up assist band can follow this, once a grown-up fits it on the checked-secure bar.",
+      "illustration": "exercises/dead-hang-supported.svg",
+      "illustrationPng": "exercises/dead-hang-supported.png"
+    },
+    "scapular-shrug": {
+      "name": "Scapular shrug on the bar",
+      "cues": [
+        "Grown-up checks the bar first.",
+        "From a gentle supported hang, pull the shoulders down and together without bending the elbows much.",
+        "Relax, then repeat. Feet stay close to the floor. No swinging."
+      ],
+      "equipment": [
+        "pull-up-bar"
+      ],
+      "swapIn": "Assist-band pull-ups later, after these look easy and calm.",
+      "illustration": "exercises/scapular-shrug.svg",
+      "illustrationPng": "exercises/scapular-shrug.png"
+    },
+    "dead-bug": {
+      "name": "Dead bug",
+      "cues": [
+        "Back flat on the floor, arms up, knees bent over the hips.",
+        "Slowly reach one arm back and the opposite leg out, then return.",
+        "If the low back pops up, make the move smaller."
+      ],
+      "equipment": [
+        "none"
+      ],
+      "swapIn": null,
+      "illustration": "exercises/dead-bug.svg",
+      "illustrationPng": "exercises/dead-bug.png",
+      "videoUrl": "https://www.youtube.com/watch?v=bxn9FBrt4-A",
+      "videoTitle": "How to do a Dead Bug | Proper Form & Technique",
+      "videoSource": "NASM"
+    },
+    "bird-dog": {
+      "name": "Bird dog",
+      "cues": [
+        "Hands and knees, back like a table.",
+        "Slide one arm forward and the opposite leg back, pause, return.",
+        "Hips stay level \u2014 no tipping."
+      ],
+      "equipment": [
+        "none"
+      ],
+      "swapIn": null,
+      "illustration": "exercises/bird-dog.svg",
+      "illustrationPng": "exercises/bird-dog.png",
+      "videoUrl": "https://www.youtube.com/watch?v=ZdAHe9_HeEw",
+      "videoTitle": "How to do a Bird Dog | Proper Form & Technique",
+      "videoSource": "NASM"
+    },
+    "kneeling-plank": {
+      "name": "Kneeling plank",
+      "cues": [
+        "Elbows under the shoulders, knees down, body in a straight line to the knees.",
+        "Squeeze the glutes, do not let the hips sag or pike up.",
+        "Breathe. Stop while it still looks tidy."
+      ],
+      "equipment": [
+        "none"
+      ],
+      "swapIn": null,
+      "illustration": "exercises/kneeling-plank.svg",
+      "illustrationPng": "exercises/kneeling-plank.png"
+    },
+    "cat-cow": {
+      "name": "Cat-cow",
+      "cues": [
+        "Hands and knees.",
+        "Slowly round the back, then gently look up and soften the belly.",
+        "Easy breathing, no forcing."
+      ],
+      "equipment": [
+        "none"
+      ],
+      "swapIn": null,
+      "illustration": "exercises/cat-cow.svg",
+      "illustrationPng": "exercises/cat-cow.png"
+    },
+    "hip-flexor-stretch": {
+      "name": "Hip flexor stretch",
+      "cues": [
+        "Half-kneeling, tuck the pelvis slightly, gentle shift forward.",
+        "You should feel the front of the back-leg hip.",
+        "Switch sides. No pain."
+      ],
+      "equipment": [
+        "none"
+      ],
+      "swapIn": null,
+      "illustration": "exercises/hip-flexor-stretch.svg",
+      "illustrationPng": "exercises/hip-flexor-stretch.png",
+      "videoUrl": "https://www.youtube.com/watch?v=DXuStgWuJV8",
+      "videoTitle": "How to do a hip flexor stretch",
+      "videoSource": "Bupa Health"
+    },
+    "hamstring-stretch": {
+      "name": "Hamstring stretch",
+      "cues": [
+        "One heel out, soft knee, hinge forward a little.",
+        "Long back, no bouncing.",
+        "Switch sides."
+      ],
+      "equipment": [
+        "none"
+      ],
+      "swapIn": null,
+      "illustration": "exercises/hamstring-stretch.svg",
+      "illustrationPng": "exercises/hamstring-stretch.png"
+    },
+    "chest-opener": {
+      "name": "Chest and shoulder opener",
+      "cues": [
+        "Stand in a doorway or clasp hands behind you and lift gently.",
+        "Easy stretch, breathe.",
+        "Shoulders stay relaxed."
+      ],
+      "equipment": [
+        "none"
+      ],
+      "swapIn": null,
+      "illustration": "exercises/chest-opener.svg",
+      "illustrationPng": "exercises/chest-opener.png"
+    },
+    "single-leg-balance": {
+      "name": "Single-leg balance",
+      "cues": [
+        "Stand tall on one foot, soft knee, eyes on a spot.",
+        "Switch sides.",
+        "Use a wall if you wobble \u2014 tennis balance, not a contest."
+      ],
+      "equipment": [
+        "none"
+      ],
+      "swapIn": null,
+      "illustration": "exercises/single-leg-balance.svg",
+      "illustrationPng": "exercises/single-leg-balance.png"
+    },
+    "calf-stretch": {
+      "name": "Calf stretch",
+      "cues": [
+        "Hands on a wall, one foot back, heel down.",
+        "Gentle and still.",
+        "Switch sides."
+      ],
+      "equipment": [
+        "none"
+      ],
+      "swapIn": null,
+      "illustration": "exercises/calf-stretch.svg",
+      "illustrationPng": "exercises/calf-stretch.png",
+      "videoUrl": "https://www.youtube.com/watch?v=y01ri_43G50",
+      "videoTitle": "How to do a calf (gastrocnemius) stretch",
+      "videoSource": "Bupa Health"
+    },
+    "easy-breathing": {
+      "name": "Easy belly breaths",
+      "cues": [
+        "Lie on your back or sit tall.",
+        "Breathe in through the nose, feel the belly rise, slow breath out.",
+        "This is the cool-down \u2014 no rushing."
+      ],
+      "equipment": [
+        "none"
+      ],
+      "swapIn": null,
+      "illustration": "exercises/easy-breathing.svg",
+      "illustrationPng": "exercises/easy-breathing.png"
+    }
+  },
+  "weeks": [
+    {
+      "week": 1,
+      "phase": "technique",
+      "phaseLabel": "Learn the moves",
+      "theme": "Master tidy form. Light and snappy. Leave reps in the tank.",
+      "sessions": [
+        {
+          "id": "w1-mon",
+          "day": "Monday",
+          "title": "Lower Body",
+          "focus": "lower",
+          "legLoad": "normal",
+          "durationMin": 22,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "bw-squat",
+              "sets": 2,
+              "reps": "8-10",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Sit back, heels down, knees follow the toes.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false,
+              "tempo": "3-1-1"
+            },
+            {
+              "exerciseId": "hip-hinge",
+              "sets": 2,
+              "reps": "8",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Hips back, long back, no rounding.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "step-up",
+              "sets": 2,
+              "reps": "6 each leg",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Whole foot on the stool. Grown-up close. Non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": true
+            },
+            {
+              "exerciseId": "calf-raise",
+              "sets": 2,
+              "reps": "10",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Pause at the top, lower slowly. Hold on for balance if you need it.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "dead-bug",
+              "sets": 2,
+              "reps": "5 each side",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": true
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "20 seconds each",
+              "target": "Gentle, no bouncing.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "calf-stretch",
+              "sets": 1,
+              "reps": "20 seconds each",
+              "target": "Gentle, heel down.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        },
+        {
+          "id": "w1-wed",
+          "day": "Wednesday",
+          "title": "Full Body",
+          "focus": "full",
+          "legLoad": "easy",
+          "durationMin": 22,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-pull-apart",
+              "sets": 1,
+              "reps": "8",
+              "target": "Easy posture wake-up.",
+              "restSec": 0,
+              "load": "light band",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "incline-pushup",
+              "sets": 2,
+              "reps": "6-8",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Straight body, no sagging hips. Stool on a non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-row",
+              "sets": 2,
+              "reps": "8-10",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Bar is checked and secure. Squeeze the shoulder blades. No leaning way back.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "glute-bridge",
+              "sets": 2,
+              "reps": "8-10",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Tidy form. Stop with 2 or 3 reps left.",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "curl-2lb",
+              "sets": 2,
+              "reps": "8-10",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. No swinging. Elbows stay by the sides. Enjoy these!",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "dead-bug",
+              "sets": 2,
+              "reps": "5 each side",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": true
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "chest-opener",
+              "sets": 1,
+              "reps": "20 seconds",
+              "target": "Easy stretch, relaxed shoulders.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "15 seconds each",
+              "target": "Quick and gentle.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 15
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        },
+        {
+          "id": "w1-fri",
+          "day": "Friday",
+          "title": "Upper Body (easy legs)",
+          "focus": "upper",
+          "legLoad": "none",
+          "durationMin": 22,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-pull-apart",
+              "sets": 1,
+              "reps": "8",
+              "target": "Easy posture wake-up.",
+              "restSec": 0,
+              "load": "light band",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "incline-pushup",
+              "sets": 2,
+              "reps": "6-8",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Straight body, no sagging hips. Stool on a non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-row",
+              "sets": 2,
+              "reps": "8-10",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Bar is checked and secure. Squeeze the shoulder blades. No leaning way back.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "oh-press-2lb",
+              "sets": 2,
+              "reps": "8",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Ribs down, press straight up, no big back arch.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "curl-2lb",
+              "sets": 2,
+              "reps": "8-10",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. No swinging. Elbows stay by the sides. Enjoy these!",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "dead-hang-supported",
+              "sets": 2,
+              "reps": "5-10 seconds",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Bar is checked and secure. Feet close to the floor. No swinging. Stand up anytime.",
+              "restSec": 40,
+              "load": "bodyweight, supported",
+              "eachSide": false,
+              "holdSec": 8
+            },
+            {
+              "exerciseId": "kneeling-plank",
+              "sets": 2,
+              "reps": "15-20 seconds",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": false,
+              "holdSec": 18
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "chest-opener",
+              "sets": 1,
+              "reps": "20 seconds",
+              "target": "Easy stretch, relaxed shoulders.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "15 seconds each",
+              "target": "Quick and gentle.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 15
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "phase": "technique",
+      "phaseLabel": "Learn the moves",
+      "theme": "Master tidy form. Light and snappy. Leave reps in the tank.",
+      "sessions": [
+        {
+          "id": "w2-mon",
+          "day": "Monday",
+          "title": "Lower Body",
+          "focus": "lower",
+          "legLoad": "normal",
+          "durationMin": 22,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "bw-squat",
+              "sets": 2,
+              "reps": "8-12",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Sit back, heels down, knees follow the toes.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false,
+              "tempo": "3-1-1"
+            },
+            {
+              "exerciseId": "rdl-2lb",
+              "sets": 2,
+              "reps": "8-10",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Hips back, long back, no rounding.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "step-up",
+              "sets": 2,
+              "reps": "6-8 each leg",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Whole foot on the stool. Grown-up close. Non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": true
+            },
+            {
+              "exerciseId": "calf-raise",
+              "sets": 2,
+              "reps": "10-12",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Pause at the top, lower slowly. Hold on for balance if you need it.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "dead-bug",
+              "sets": 2,
+              "reps": "5 each side",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": true
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "20 seconds each",
+              "target": "Gentle, no bouncing.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "calf-stretch",
+              "sets": 1,
+              "reps": "20 seconds each",
+              "target": "Gentle, heel down.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        },
+        {
+          "id": "w2-wed",
+          "day": "Wednesday",
+          "title": "Full Body",
+          "focus": "full",
+          "legLoad": "easy",
+          "durationMin": 22,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-pull-apart",
+              "sets": 1,
+              "reps": "8",
+              "target": "Easy posture wake-up.",
+              "restSec": 0,
+              "load": "light band",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "incline-pushup",
+              "sets": 2,
+              "reps": "8-10",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Straight body, no sagging hips. Stool on a non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-row",
+              "sets": 2,
+              "reps": "8-12",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Bar is checked and secure. Squeeze the shoulder blades. No leaning way back.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "glute-bridge",
+              "sets": 2,
+              "reps": "10-12",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Tidy form. Stop with 2 or 3 reps left.",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "curl-2lb",
+              "sets": 2,
+              "reps": "10-12",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. No swinging. Elbows stay by the sides. Enjoy these!",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "dead-bug",
+              "sets": 2,
+              "reps": "5 each side",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": true
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "chest-opener",
+              "sets": 1,
+              "reps": "20 seconds",
+              "target": "Easy stretch, relaxed shoulders.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "15 seconds each",
+              "target": "Quick and gentle.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 15
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        },
+        {
+          "id": "w2-fri",
+          "day": "Friday",
+          "title": "Upper Body (easy legs)",
+          "focus": "upper",
+          "legLoad": "none",
+          "durationMin": 22,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-pull-apart",
+              "sets": 1,
+              "reps": "8",
+              "target": "Easy posture wake-up.",
+              "restSec": 0,
+              "load": "light band",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "incline-pushup",
+              "sets": 2,
+              "reps": "8-10",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Straight body, no sagging hips. Stool on a non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-row",
+              "sets": 2,
+              "reps": "8-12",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Bar is checked and secure. Squeeze the shoulder blades. No leaning way back.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "oh-press-2lb",
+              "sets": 2,
+              "reps": "8-10",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Ribs down, press straight up, no big back arch.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "curl-2lb",
+              "sets": 2,
+              "reps": "10-12",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. No swinging. Elbows stay by the sides. Enjoy these!",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "dead-hang-supported",
+              "sets": 2,
+              "reps": "5-10 seconds",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Bar is checked and secure. Feet close to the floor. No swinging. Stand up anytime.",
+              "restSec": 40,
+              "load": "bodyweight, supported",
+              "eachSide": false,
+              "holdSec": 8
+            },
+            {
+              "exerciseId": "bird-dog",
+              "sets": 2,
+              "reps": "5 each side",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": true
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "chest-opener",
+              "sets": 1,
+              "reps": "20 seconds",
+              "target": "Easy stretch, relaxed shoulders.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "15 seconds each",
+              "target": "Quick and gentle.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 15
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "phase": "technique",
+      "phaseLabel": "Learn the moves",
+      "theme": "Master tidy form. Light and snappy. Leave reps in the tank.",
+      "sessions": [
+        {
+          "id": "w3-mon",
+          "day": "Monday",
+          "title": "Lower Body",
+          "focus": "lower",
+          "legLoad": "normal",
+          "durationMin": 22,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "bw-squat",
+              "sets": 3,
+              "reps": "10-12",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Sit back, heels down, knees follow the toes.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false,
+              "tempo": "3-1-1"
+            },
+            {
+              "exerciseId": "rdl-2lb",
+              "sets": 3,
+              "reps": "8-10",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Hips back, long back, no rounding.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "step-up",
+              "sets": 2,
+              "reps": "8 each leg",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Whole foot on the stool. Grown-up close. Non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": true
+            },
+            {
+              "exerciseId": "calf-raise-step",
+              "sets": 2,
+              "reps": "10-12",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Pause at the top, lower slowly. Hold on for balance if you need it.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "dead-bug",
+              "sets": 2,
+              "reps": "6 each side",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": true
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "20 seconds each",
+              "target": "Gentle, no bouncing.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "calf-stretch",
+              "sets": 1,
+              "reps": "20 seconds each",
+              "target": "Gentle, heel down.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        },
+        {
+          "id": "w3-wed",
+          "day": "Wednesday",
+          "title": "Full Body",
+          "focus": "full",
+          "legLoad": "easy",
+          "durationMin": 22,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-pull-apart",
+              "sets": 1,
+              "reps": "8",
+              "target": "Easy posture wake-up.",
+              "restSec": 0,
+              "load": "light band",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "incline-pushup",
+              "sets": 3,
+              "reps": "8-10",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Straight body, no sagging hips. Stool on a non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-row",
+              "sets": 3,
+              "reps": "10-12",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Bar is checked and secure. Squeeze the shoulder blades. No leaning way back.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "glute-bridge",
+              "sets": 2,
+              "reps": "10-12",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Tidy form. Stop with 2 or 3 reps left.",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "curl-2lb",
+              "sets": 2,
+              "reps": "10-12",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. No swinging. Elbows stay by the sides. Enjoy these!",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "dead-bug",
+              "sets": 2,
+              "reps": "6 each side",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": true
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "chest-opener",
+              "sets": 1,
+              "reps": "20 seconds",
+              "target": "Easy stretch, relaxed shoulders.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "15 seconds each",
+              "target": "Quick and gentle.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 15
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        },
+        {
+          "id": "w3-fri",
+          "day": "Friday",
+          "title": "Upper Body (easy legs)",
+          "focus": "upper",
+          "legLoad": "none",
+          "durationMin": 22,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-pull-apart",
+              "sets": 1,
+              "reps": "8",
+              "target": "Easy posture wake-up.",
+              "restSec": 0,
+              "load": "light band",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "incline-pushup",
+              "sets": 3,
+              "reps": "8-10",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Straight body, no sagging hips. Stool on a non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-row",
+              "sets": 3,
+              "reps": "10-12",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Bar is checked and secure. Squeeze the shoulder blades. No leaning way back.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "oh-press-2lb",
+              "sets": 2,
+              "reps": "10-12",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Ribs down, press straight up, no big back arch.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "curl-2lb",
+              "sets": 2,
+              "reps": "10-12",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. No swinging. Elbows stay by the sides. Enjoy these!",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "dead-hang-supported",
+              "sets": 2,
+              "reps": "8-12 seconds",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Bar is checked and secure. Feet close to the floor. No swinging. Stand up anytime.",
+              "restSec": 40,
+              "load": "bodyweight, supported",
+              "eachSide": false,
+              "holdSec": 10
+            },
+            {
+              "exerciseId": "kneeling-plank",
+              "sets": 2,
+              "reps": "20 seconds",
+              "target": "Learn the shape. Slow and tidy. Stop with 2 or 3 reps left. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": false,
+              "holdSec": 20
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "chest-opener",
+              "sets": 1,
+              "reps": "20 seconds",
+              "target": "Easy stretch, relaxed shoulders.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "15 seconds each",
+              "target": "Quick and gentle.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 15
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "phase": "deload",
+      "phaseLabel": "Easy technique week",
+      "theme": "Fewer sets, easy reps, same great form. Recover and stay sharp.",
+      "sessions": [
+        {
+          "id": "w4-mon",
+          "day": "Monday",
+          "title": "Lower Body",
+          "focus": "lower",
+          "legLoad": "normal",
+          "durationMin": 22,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "bw-squat",
+              "sets": 2,
+              "reps": "6-8",
+              "target": "Easy and pretty. No grinding. This is a recovery week. Sit back, heels down, knees follow the toes.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "hip-hinge",
+              "sets": 2,
+              "reps": "6-8",
+              "target": "Easy and pretty. No grinding. This is a recovery week. Hips back, long back, no rounding.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "step-up",
+              "sets": 2,
+              "reps": "5 each leg",
+              "target": "Easy and pretty. No grinding. This is a recovery week. Whole foot on the stool. Grown-up close. Non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": true
+            },
+            {
+              "exerciseId": "calf-raise",
+              "sets": 2,
+              "reps": "8",
+              "target": "Easy and pretty. No grinding. This is a recovery week. Pause at the top, lower slowly. Hold on for balance if you need it.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "dead-bug",
+              "sets": 2,
+              "reps": "5 each side",
+              "target": "Easy and pretty. No grinding. This is a recovery week. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": true
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "20 seconds each",
+              "target": "Gentle, no bouncing.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "calf-stretch",
+              "sets": 1,
+              "reps": "20 seconds each",
+              "target": "Gentle, heel down.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        },
+        {
+          "id": "w4-wed",
+          "day": "Wednesday",
+          "title": "Full Body",
+          "focus": "full",
+          "legLoad": "easy",
+          "durationMin": 22,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-pull-apart",
+              "sets": 1,
+              "reps": "8",
+              "target": "Easy posture wake-up.",
+              "restSec": 0,
+              "load": "light band",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "incline-pushup",
+              "sets": 2,
+              "reps": "6-8",
+              "target": "Easy and pretty. No grinding. This is a recovery week. Straight body, no sagging hips. Stool on a non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-row",
+              "sets": 2,
+              "reps": "8",
+              "target": "Easy and pretty. No grinding. This is a recovery week. Bar is checked and secure. Squeeze the shoulder blades. No leaning way back.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "glute-bridge",
+              "sets": 2,
+              "reps": "8",
+              "target": "Easy and pretty. No grinding. This is a recovery week. Tidy form. Stop with 2 or 3 reps left.",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "curl-2lb",
+              "sets": 2,
+              "reps": "8",
+              "target": "Easy and pretty. No grinding. This is a recovery week. No swinging. Elbows stay by the sides. Enjoy these!",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "dead-bug",
+              "sets": 2,
+              "reps": "5 each side",
+              "target": "Easy and pretty. No grinding. This is a recovery week. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": true
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "chest-opener",
+              "sets": 1,
+              "reps": "20 seconds",
+              "target": "Easy stretch, relaxed shoulders.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "15 seconds each",
+              "target": "Quick and gentle.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 15
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        },
+        {
+          "id": "w4-fri",
+          "day": "Friday",
+          "title": "Upper Body (easy legs)",
+          "focus": "upper",
+          "legLoad": "none",
+          "durationMin": 22,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-pull-apart",
+              "sets": 1,
+              "reps": "8",
+              "target": "Easy posture wake-up.",
+              "restSec": 0,
+              "load": "light band",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "incline-pushup",
+              "sets": 2,
+              "reps": "6-8",
+              "target": "Easy and pretty. No grinding. This is a recovery week. Straight body, no sagging hips. Stool on a non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-row",
+              "sets": 2,
+              "reps": "8",
+              "target": "Easy and pretty. No grinding. This is a recovery week. Bar is checked and secure. Squeeze the shoulder blades. No leaning way back.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "oh-press-2lb",
+              "sets": 2,
+              "reps": "6-8",
+              "target": "Easy and pretty. No grinding. This is a recovery week. Ribs down, press straight up, no big back arch.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "curl-2lb",
+              "sets": 2,
+              "reps": "8",
+              "target": "Easy and pretty. No grinding. This is a recovery week. No swinging. Elbows stay by the sides. Enjoy these!",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "dead-hang-supported",
+              "sets": 2,
+              "reps": "5-10 seconds",
+              "target": "Easy and pretty. No grinding. This is a recovery week. Bar is checked and secure. Feet close to the floor. No swinging. Stand up anytime.",
+              "restSec": 40,
+              "load": "bodyweight, supported",
+              "eachSide": false,
+              "holdSec": 8
+            },
+            {
+              "exerciseId": "bird-dog",
+              "sets": 2,
+              "reps": "5 each side",
+              "target": "Easy and pretty. No grinding. This is a recovery week. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": true
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "chest-opener",
+              "sets": 1,
+              "reps": "20 seconds",
+              "target": "Easy stretch, relaxed shoulders.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "15 seconds each",
+              "target": "Quick and gentle.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 15
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "phase": "build",
+      "phaseLabel": "Build it up",
+      "theme": "A little more work, still never to failure. Earn the top of the range before any harder variation.",
+      "sessions": [
+        {
+          "id": "w5-mon",
+          "day": "Monday",
+          "title": "Lower Body",
+          "focus": "lower",
+          "legLoad": "normal",
+          "durationMin": 25,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "pause-squat",
+              "sets": 3,
+              "reps": "8-10",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Sit back, heels down, knees follow the toes.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false,
+              "tempo": "2-2-1"
+            },
+            {
+              "exerciseId": "rdl-2lb",
+              "sets": 3,
+              "reps": "8-10",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Hips back, long back, no rounding.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "slow-step-up",
+              "sets": 3,
+              "reps": "6 each leg",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Whole foot on the stool. Grown-up close. Non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": true,
+              "tempo": "1-0-3"
+            },
+            {
+              "exerciseId": "calf-raise-step",
+              "sets": 3,
+              "reps": "10-12",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Pause at the top, lower slowly. Hold on for balance if you need it.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "dead-bug",
+              "sets": 2,
+              "reps": "6-8 each side",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": true
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "20 seconds each",
+              "target": "Gentle, no bouncing.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "calf-stretch",
+              "sets": 1,
+              "reps": "20 seconds each",
+              "target": "Gentle, heel down.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        },
+        {
+          "id": "w5-wed",
+          "day": "Wednesday",
+          "title": "Full Body",
+          "focus": "full",
+          "legLoad": "easy",
+          "durationMin": 25,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-pull-apart",
+              "sets": 1,
+              "reps": "8",
+              "target": "Easy posture wake-up.",
+              "restSec": 0,
+              "load": "light band",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "tempo-incline-pushup",
+              "sets": 3,
+              "reps": "8-10",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Straight body, no sagging hips. Stool on a non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false,
+              "tempo": "3-0-1"
+            },
+            {
+              "exerciseId": "pause-band-row",
+              "sets": 3,
+              "reps": "8-10",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Bar is checked and secure. Squeeze the shoulder blades. No leaning way back.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "pause-glute-bridge",
+              "sets": 3,
+              "reps": "10-12",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Tidy form. Stop with 2 or 3 reps left.",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "curl-2lb",
+              "sets": 3,
+              "reps": "10-12",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. No swinging. Elbows stay by the sides. Enjoy these!",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "dead-bug",
+              "sets": 2,
+              "reps": "6-8 each side",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": true
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "chest-opener",
+              "sets": 1,
+              "reps": "20 seconds",
+              "target": "Easy stretch, relaxed shoulders.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "15 seconds each",
+              "target": "Quick and gentle.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 15
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        },
+        {
+          "id": "w5-fri",
+          "day": "Friday",
+          "title": "Upper Body (easy legs)",
+          "focus": "upper",
+          "legLoad": "none",
+          "durationMin": 25,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-pull-apart",
+              "sets": 1,
+              "reps": "8",
+              "target": "Easy posture wake-up.",
+              "restSec": 0,
+              "load": "light band",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "tempo-incline-pushup",
+              "sets": 3,
+              "reps": "8-10",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Straight body, no sagging hips. Stool on a non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false,
+              "tempo": "3-0-1"
+            },
+            {
+              "exerciseId": "pause-band-row",
+              "sets": 3,
+              "reps": "8-10",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Bar is checked and secure. Squeeze the shoulder blades. No leaning way back.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "oh-press-2lb",
+              "sets": 3,
+              "reps": "8-10",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Ribs down, press straight up, no big back arch.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "curl-2lb",
+              "sets": 3,
+              "reps": "10-12",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. No swinging. Elbows stay by the sides. Enjoy these!",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "scapular-shrug",
+              "sets": 3,
+              "reps": "6-8",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Bar is checked and secure. Feet close to the floor. No swinging. Stand up anytime.",
+              "restSec": 40,
+              "load": "bodyweight, supported",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "kneeling-plank",
+              "sets": 2,
+              "reps": "20 seconds",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": false,
+              "holdSec": 20
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "chest-opener",
+              "sets": 1,
+              "reps": "20 seconds",
+              "target": "Easy stretch, relaxed shoulders.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "15 seconds each",
+              "target": "Quick and gentle.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 15
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "phase": "build",
+      "phaseLabel": "Build it up",
+      "theme": "A little more work, still never to failure. Earn the top of the range before any harder variation.",
+      "sessions": [
+        {
+          "id": "w6-mon",
+          "day": "Monday",
+          "title": "Lower Body",
+          "focus": "lower",
+          "legLoad": "normal",
+          "durationMin": 25,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "goblet-squat-2lb",
+              "sets": 3,
+              "reps": "10-12",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Sit back, heels down, knees follow the toes.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "pause-rdl-2lb",
+              "sets": 3,
+              "reps": "8-10",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Hips back, long back, no rounding.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false,
+              "tempo": "2-2-1"
+            },
+            {
+              "exerciseId": "slow-step-up",
+              "sets": 3,
+              "reps": "6-8 each leg",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Whole foot on the stool. Grown-up close. Non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": true,
+              "tempo": "1-0-3"
+            },
+            {
+              "exerciseId": "pause-calf-raise",
+              "sets": 3,
+              "reps": "10-12",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Pause at the top, lower slowly. Hold on for balance if you need it.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "dead-bug",
+              "sets": 2,
+              "reps": "6-8 each side",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": true
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "20 seconds each",
+              "target": "Gentle, no bouncing.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "calf-stretch",
+              "sets": 1,
+              "reps": "20 seconds each",
+              "target": "Gentle, heel down.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        },
+        {
+          "id": "w6-wed",
+          "day": "Wednesday",
+          "title": "Full Body",
+          "focus": "full",
+          "legLoad": "easy",
+          "durationMin": 25,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-pull-apart",
+              "sets": 1,
+              "reps": "8",
+              "target": "Easy posture wake-up.",
+              "restSec": 0,
+              "load": "light band",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "tempo-incline-pushup",
+              "sets": 3,
+              "reps": "10-12",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Straight body, no sagging hips. Stool on a non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false,
+              "tempo": "3-0-1"
+            },
+            {
+              "exerciseId": "pause-band-row",
+              "sets": 3,
+              "reps": "10-12",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Bar is checked and secure. Squeeze the shoulder blades. No leaning way back.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "pause-glute-bridge",
+              "sets": 3,
+              "reps": "10-12",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Tidy form. Stop with 2 or 3 reps left.",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "tempo-curl-2lb",
+              "sets": 3,
+              "reps": "10-12",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. No swinging. Elbows stay by the sides. Enjoy these!",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false,
+              "tempo": "1-0-3"
+            },
+            {
+              "exerciseId": "dead-bug",
+              "sets": 2,
+              "reps": "6-8 each side",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": true
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "chest-opener",
+              "sets": 1,
+              "reps": "20 seconds",
+              "target": "Easy stretch, relaxed shoulders.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "15 seconds each",
+              "target": "Quick and gentle.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 15
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        },
+        {
+          "id": "w6-fri",
+          "day": "Friday",
+          "title": "Upper Body (easy legs)",
+          "focus": "upper",
+          "legLoad": "none",
+          "durationMin": 25,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-pull-apart",
+              "sets": 1,
+              "reps": "8",
+              "target": "Easy posture wake-up.",
+              "restSec": 0,
+              "load": "light band",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "tempo-incline-pushup",
+              "sets": 3,
+              "reps": "10-12",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Straight body, no sagging hips. Stool on a non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false,
+              "tempo": "3-0-1"
+            },
+            {
+              "exerciseId": "pause-band-row",
+              "sets": 3,
+              "reps": "10-12",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Bar is checked and secure. Squeeze the shoulder blades. No leaning way back.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "pause-oh-press-2lb",
+              "sets": 3,
+              "reps": "8-10",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Ribs down, press straight up, no big back arch.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "tempo-curl-2lb",
+              "sets": 3,
+              "reps": "10-12",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. No swinging. Elbows stay by the sides. Enjoy these!",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false,
+              "tempo": "1-0-3"
+            },
+            {
+              "exerciseId": "scapular-shrug",
+              "sets": 3,
+              "reps": "6-8",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Bar is checked and secure. Feet close to the floor. No swinging. Stand up anytime.",
+              "restSec": 40,
+              "load": "bodyweight, supported",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "bird-dog",
+              "sets": 2,
+              "reps": "6 each side",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": true
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "chest-opener",
+              "sets": 1,
+              "reps": "20 seconds",
+              "target": "Easy stretch, relaxed shoulders.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "15 seconds each",
+              "target": "Quick and gentle.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 15
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 7,
+      "phase": "build",
+      "phaseLabel": "Build it up",
+      "theme": "A little more work, still never to failure. Earn the top of the range before any harder variation.",
+      "sessions": [
+        {
+          "id": "w7-mon",
+          "day": "Monday",
+          "title": "Lower Body",
+          "focus": "lower",
+          "legLoad": "normal",
+          "durationMin": 25,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "tempo-goblet-squat-2lb",
+              "sets": 3,
+              "reps": "10-12",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Sit back, heels down, knees follow the toes.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false,
+              "tempo": "3-1-1"
+            },
+            {
+              "exerciseId": "pause-rdl-2lb",
+              "sets": 3,
+              "reps": "10-12",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Hips back, long back, no rounding.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false,
+              "tempo": "2-2-1"
+            },
+            {
+              "exerciseId": "step-up-2lb",
+              "sets": 3,
+              "reps": "6-8 each leg",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Whole foot on the stool. Grown-up close. Non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": true
+            },
+            {
+              "exerciseId": "pause-calf-raise",
+              "sets": 3,
+              "reps": "10-12",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Pause at the top, lower slowly. Hold on for balance if you need it.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "dead-bug",
+              "sets": 2,
+              "reps": "6-8 each side",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": true
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "20 seconds each",
+              "target": "Gentle, no bouncing.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "calf-stretch",
+              "sets": 1,
+              "reps": "20 seconds each",
+              "target": "Gentle, heel down.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        },
+        {
+          "id": "w7-wed",
+          "day": "Wednesday",
+          "title": "Full Body",
+          "focus": "full",
+          "legLoad": "easy",
+          "durationMin": 25,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-pull-apart",
+              "sets": 1,
+              "reps": "8",
+              "target": "Easy posture wake-up.",
+              "restSec": 0,
+              "load": "light band",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "knee-pushup",
+              "sets": 3,
+              "reps": "8-10",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Straight body, no sagging hips. Stool on a non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "pause-band-row",
+              "sets": 3,
+              "reps": "10-12",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Bar is checked and secure. Squeeze the shoulder blades. No leaning way back.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "pause-glute-bridge",
+              "sets": 3,
+              "reps": "10-12",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Tidy form. Stop with 2 or 3 reps left.",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "tempo-curl-2lb",
+              "sets": 3,
+              "reps": "10-12",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. No swinging. Elbows stay by the sides. Enjoy these!",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false,
+              "tempo": "1-0-3"
+            },
+            {
+              "exerciseId": "dead-bug",
+              "sets": 2,
+              "reps": "6-8 each side",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": true
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "chest-opener",
+              "sets": 1,
+              "reps": "20 seconds",
+              "target": "Easy stretch, relaxed shoulders.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "15 seconds each",
+              "target": "Quick and gentle.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 15
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        },
+        {
+          "id": "w7-fri",
+          "day": "Friday",
+          "title": "Upper Body (easy legs)",
+          "focus": "upper",
+          "legLoad": "none",
+          "durationMin": 25,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-pull-apart",
+              "sets": 1,
+              "reps": "8",
+              "target": "Easy posture wake-up.",
+              "restSec": 0,
+              "load": "light band",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "knee-pushup",
+              "sets": 3,
+              "reps": "8-10",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Straight body, no sagging hips. Stool on a non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "pause-band-row",
+              "sets": 3,
+              "reps": "10-12",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Bar is checked and secure. Squeeze the shoulder blades. No leaning way back.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "pause-oh-press-2lb",
+              "sets": 3,
+              "reps": "10-12",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Ribs down, press straight up, no big back arch.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "tempo-curl-2lb",
+              "sets": 3,
+              "reps": "10-12",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. No swinging. Elbows stay by the sides. Enjoy these!",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false,
+              "tempo": "1-0-3"
+            },
+            {
+              "exerciseId": "scapular-shrug",
+              "sets": 3,
+              "reps": "8-10",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Bar is checked and secure. Feet close to the floor. No swinging. Stand up anytime.",
+              "restSec": 40,
+              "load": "bodyweight, supported",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "kneeling-plank",
+              "sets": 2,
+              "reps": "20 seconds",
+              "target": "Own the top of the range with clean form before any harder step. Leave 2 or 3 in the tank. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": false,
+              "holdSec": 20
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "chest-opener",
+              "sets": 1,
+              "reps": "20 seconds",
+              "target": "Easy stretch, relaxed shoulders.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "15 seconds each",
+              "target": "Quick and gentle.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 15
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 8,
+      "phase": "deload",
+      "phaseLabel": "Easy recovery week",
+      "theme": "Back off the volume, keep the form beautiful, get ready for the strength block.",
+      "sessions": [
+        {
+          "id": "w8-mon",
+          "day": "Monday",
+          "title": "Lower Body",
+          "focus": "lower",
+          "legLoad": "normal",
+          "durationMin": 22,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "bw-squat",
+              "sets": 2,
+              "reps": "8",
+              "target": "Easy and pretty. No grinding. This is a recovery week. Sit back, heels down, knees follow the toes.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "rdl-2lb",
+              "sets": 2,
+              "reps": "8",
+              "target": "Easy and pretty. No grinding. This is a recovery week. Hips back, long back, no rounding.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "step-up",
+              "sets": 2,
+              "reps": "6 each leg",
+              "target": "Easy and pretty. No grinding. This is a recovery week. Whole foot on the stool. Grown-up close. Non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": true
+            },
+            {
+              "exerciseId": "calf-raise",
+              "sets": 2,
+              "reps": "8-10",
+              "target": "Easy and pretty. No grinding. This is a recovery week. Pause at the top, lower slowly. Hold on for balance if you need it.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "dead-bug",
+              "sets": 2,
+              "reps": "5 each side",
+              "target": "Easy and pretty. No grinding. This is a recovery week. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": true
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "20 seconds each",
+              "target": "Gentle, no bouncing.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "calf-stretch",
+              "sets": 1,
+              "reps": "20 seconds each",
+              "target": "Gentle, heel down.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        },
+        {
+          "id": "w8-wed",
+          "day": "Wednesday",
+          "title": "Full Body",
+          "focus": "full",
+          "legLoad": "easy",
+          "durationMin": 22,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-pull-apart",
+              "sets": 1,
+              "reps": "8",
+              "target": "Easy posture wake-up.",
+              "restSec": 0,
+              "load": "light band",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "incline-pushup",
+              "sets": 2,
+              "reps": "8",
+              "target": "Easy and pretty. No grinding. This is a recovery week. Straight body, no sagging hips. Stool on a non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-row",
+              "sets": 2,
+              "reps": "8-10",
+              "target": "Easy and pretty. No grinding. This is a recovery week. Bar is checked and secure. Squeeze the shoulder blades. No leaning way back.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "glute-bridge",
+              "sets": 2,
+              "reps": "8-10",
+              "target": "Easy and pretty. No grinding. This is a recovery week. Tidy form. Stop with 2 or 3 reps left.",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "curl-2lb",
+              "sets": 2,
+              "reps": "8-10",
+              "target": "Easy and pretty. No grinding. This is a recovery week. No swinging. Elbows stay by the sides. Enjoy these!",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "dead-bug",
+              "sets": 2,
+              "reps": "5 each side",
+              "target": "Easy and pretty. No grinding. This is a recovery week. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": true
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "chest-opener",
+              "sets": 1,
+              "reps": "20 seconds",
+              "target": "Easy stretch, relaxed shoulders.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "15 seconds each",
+              "target": "Quick and gentle.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 15
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        },
+        {
+          "id": "w8-fri",
+          "day": "Friday",
+          "title": "Upper Body (easy legs)",
+          "focus": "upper",
+          "legLoad": "none",
+          "durationMin": 22,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-pull-apart",
+              "sets": 1,
+              "reps": "8",
+              "target": "Easy posture wake-up.",
+              "restSec": 0,
+              "load": "light band",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "incline-pushup",
+              "sets": 2,
+              "reps": "8",
+              "target": "Easy and pretty. No grinding. This is a recovery week. Straight body, no sagging hips. Stool on a non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-row",
+              "sets": 2,
+              "reps": "8-10",
+              "target": "Easy and pretty. No grinding. This is a recovery week. Bar is checked and secure. Squeeze the shoulder blades. No leaning way back.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "oh-press-2lb",
+              "sets": 2,
+              "reps": "8",
+              "target": "Easy and pretty. No grinding. This is a recovery week. Ribs down, press straight up, no big back arch.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "curl-2lb",
+              "sets": 2,
+              "reps": "8-10",
+              "target": "Easy and pretty. No grinding. This is a recovery week. No swinging. Elbows stay by the sides. Enjoy these!",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "dead-hang-supported",
+              "sets": 2,
+              "reps": "5-10 seconds",
+              "target": "Easy and pretty. No grinding. This is a recovery week. Bar is checked and secure. Feet close to the floor. No swinging. Stand up anytime.",
+              "restSec": 40,
+              "load": "bodyweight, supported",
+              "eachSide": false,
+              "holdSec": 8
+            },
+            {
+              "exerciseId": "bird-dog",
+              "sets": 2,
+              "reps": "5 each side",
+              "target": "Easy and pretty. No grinding. This is a recovery week. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": true
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "chest-opener",
+              "sets": 1,
+              "reps": "20 seconds",
+              "target": "Easy stretch, relaxed shoulders.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "15 seconds each",
+              "target": "Quick and gentle.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 15
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 9,
+      "phase": "strength",
+      "phaseLabel": "Get stronger \u2014 never to failure",
+      "theme": "Harder variations, but stop with 2 or 3 reps left every set. Snappy form only.",
+      "sessions": [
+        {
+          "id": "w9-mon",
+          "day": "Monday",
+          "title": "Lower Body",
+          "focus": "lower",
+          "legLoad": "normal",
+          "durationMin": 25,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "tempo-goblet-squat-2lb",
+              "sets": 3,
+              "reps": "8-10",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Sit back, heels down, knees follow the toes.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false,
+              "tempo": "3-1-1"
+            },
+            {
+              "exerciseId": "pause-rdl-2lb",
+              "sets": 3,
+              "reps": "8-10",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Hips back, long back, no rounding.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false,
+              "tempo": "2-2-1"
+            },
+            {
+              "exerciseId": "step-up-2lb",
+              "sets": 3,
+              "reps": "6-8 each leg",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Whole foot on the stool. Grown-up close. Non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": true
+            },
+            {
+              "exerciseId": "pause-calf-raise",
+              "sets": 3,
+              "reps": "8-12",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Pause at the top, lower slowly. Hold on for balance if you need it.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "dead-bug",
+              "sets": 2,
+              "reps": "6 each side",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": true
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "20 seconds each",
+              "target": "Gentle, no bouncing.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "calf-stretch",
+              "sets": 1,
+              "reps": "20 seconds each",
+              "target": "Gentle, heel down.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        },
+        {
+          "id": "w9-wed",
+          "day": "Wednesday",
+          "title": "Full Body",
+          "focus": "full",
+          "legLoad": "easy",
+          "durationMin": 25,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-pull-apart",
+              "sets": 1,
+              "reps": "8",
+              "target": "Easy posture wake-up.",
+              "restSec": 0,
+              "load": "light band",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "knee-pushup",
+              "sets": 3,
+              "reps": "8-10",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Straight body, no sagging hips. Stool on a non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "pause-band-row",
+              "sets": 3,
+              "reps": "8-10",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Bar is checked and secure. Squeeze the shoulder blades. No leaning way back.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "pause-glute-bridge",
+              "sets": 3,
+              "reps": "8-10",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Tidy form. Stop with 2 or 3 reps left.",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "tempo-curl-2lb",
+              "sets": 3,
+              "reps": "8-12",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. No swinging. Elbows stay by the sides. Enjoy these!",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false,
+              "tempo": "1-0-3"
+            },
+            {
+              "exerciseId": "dead-bug",
+              "sets": 2,
+              "reps": "6 each side",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": true
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "chest-opener",
+              "sets": 1,
+              "reps": "20 seconds",
+              "target": "Easy stretch, relaxed shoulders.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "15 seconds each",
+              "target": "Quick and gentle.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 15
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        },
+        {
+          "id": "w9-fri",
+          "day": "Friday",
+          "title": "Upper Body (easy legs)",
+          "focus": "upper",
+          "legLoad": "none",
+          "durationMin": 25,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-pull-apart",
+              "sets": 1,
+              "reps": "8",
+              "target": "Easy posture wake-up.",
+              "restSec": 0,
+              "load": "light band",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "knee-pushup",
+              "sets": 3,
+              "reps": "8-10",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Straight body, no sagging hips. Stool on a non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "pause-band-row",
+              "sets": 3,
+              "reps": "8-10",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Bar is checked and secure. Squeeze the shoulder blades. No leaning way back.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "pause-oh-press-2lb",
+              "sets": 3,
+              "reps": "8-10",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Ribs down, press straight up, no big back arch.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "tempo-curl-2lb",
+              "sets": 3,
+              "reps": "8-12",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. No swinging. Elbows stay by the sides. Enjoy these!",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false,
+              "tempo": "1-0-3"
+            },
+            {
+              "exerciseId": "scapular-shrug",
+              "sets": 3,
+              "reps": "6-8",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Bar is checked and secure. Feet close to the floor. No swinging. Stand up anytime.",
+              "restSec": 40,
+              "load": "bodyweight, supported",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "kneeling-plank",
+              "sets": 2,
+              "reps": "20-25 seconds",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": false,
+              "holdSec": 22
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "chest-opener",
+              "sets": 1,
+              "reps": "20 seconds",
+              "target": "Easy stretch, relaxed shoulders.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "15 seconds each",
+              "target": "Quick and gentle.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 15
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 10,
+      "phase": "strength",
+      "phaseLabel": "Get stronger \u2014 never to failure",
+      "theme": "Harder variations, but stop with 2 or 3 reps left every set. Snappy form only.",
+      "sessions": [
+        {
+          "id": "w10-mon",
+          "day": "Monday",
+          "title": "Lower Body",
+          "focus": "lower",
+          "legLoad": "normal",
+          "durationMin": 25,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "tempo-goblet-squat-2lb",
+              "sets": 3,
+              "reps": "8-10",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Sit back, heels down, knees follow the toes.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false,
+              "tempo": "3-1-1"
+            },
+            {
+              "exerciseId": "pause-rdl-2lb",
+              "sets": 3,
+              "reps": "8-10",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Hips back, long back, no rounding.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false,
+              "tempo": "2-2-1"
+            },
+            {
+              "exerciseId": "slow-step-up",
+              "sets": 3,
+              "reps": "8 each leg",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Whole foot on the stool. Grown-up close. Non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": true,
+              "tempo": "1-0-3"
+            },
+            {
+              "exerciseId": "pause-calf-raise",
+              "sets": 3,
+              "reps": "8-12",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Pause at the top, lower slowly. Hold on for balance if you need it.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "dead-bug",
+              "sets": 2,
+              "reps": "6 each side",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": true
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "20 seconds each",
+              "target": "Gentle, no bouncing.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "calf-stretch",
+              "sets": 1,
+              "reps": "20 seconds each",
+              "target": "Gentle, heel down.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        },
+        {
+          "id": "w10-wed",
+          "day": "Wednesday",
+          "title": "Full Body",
+          "focus": "full",
+          "legLoad": "easy",
+          "durationMin": 25,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-pull-apart",
+              "sets": 1,
+              "reps": "8",
+              "target": "Easy posture wake-up.",
+              "restSec": 0,
+              "load": "light band",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "tempo-incline-pushup",
+              "sets": 3,
+              "reps": "8-12",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Straight body, no sagging hips. Stool on a non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false,
+              "tempo": "3-0-1"
+            },
+            {
+              "exerciseId": "pause-band-row",
+              "sets": 3,
+              "reps": "8-10",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Bar is checked and secure. Squeeze the shoulder blades. No leaning way back.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "pause-glute-bridge",
+              "sets": 3,
+              "reps": "10-12",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Tidy form. Stop with 2 or 3 reps left.",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "tempo-curl-2lb",
+              "sets": 3,
+              "reps": "8-12",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. No swinging. Elbows stay by the sides. Enjoy these!",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false,
+              "tempo": "1-0-3"
+            },
+            {
+              "exerciseId": "dead-bug",
+              "sets": 2,
+              "reps": "6 each side",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": true
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "chest-opener",
+              "sets": 1,
+              "reps": "20 seconds",
+              "target": "Easy stretch, relaxed shoulders.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "15 seconds each",
+              "target": "Quick and gentle.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 15
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        },
+        {
+          "id": "w10-fri",
+          "day": "Friday",
+          "title": "Upper Body (easy legs)",
+          "focus": "upper",
+          "legLoad": "none",
+          "durationMin": 25,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-pull-apart",
+              "sets": 1,
+              "reps": "8",
+              "target": "Easy posture wake-up.",
+              "restSec": 0,
+              "load": "light band",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "tempo-incline-pushup",
+              "sets": 3,
+              "reps": "8-12",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Straight body, no sagging hips. Stool on a non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false,
+              "tempo": "3-0-1"
+            },
+            {
+              "exerciseId": "pause-band-row",
+              "sets": 3,
+              "reps": "8-10",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Bar is checked and secure. Squeeze the shoulder blades. No leaning way back.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "pause-oh-press-2lb",
+              "sets": 3,
+              "reps": "8-10",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Ribs down, press straight up, no big back arch.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "tempo-curl-2lb",
+              "sets": 3,
+              "reps": "8-12",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. No swinging. Elbows stay by the sides. Enjoy these!",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false,
+              "tempo": "1-0-3"
+            },
+            {
+              "exerciseId": "scapular-shrug",
+              "sets": 3,
+              "reps": "6-8",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Bar is checked and secure. Feet close to the floor. No swinging. Stand up anytime.",
+              "restSec": 40,
+              "load": "bodyweight, supported",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "bird-dog",
+              "sets": 2,
+              "reps": "6 each side",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": true
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "chest-opener",
+              "sets": 1,
+              "reps": "20 seconds",
+              "target": "Easy stretch, relaxed shoulders.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "15 seconds each",
+              "target": "Quick and gentle.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 15
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 11,
+      "phase": "strength",
+      "phaseLabel": "Get stronger \u2014 never to failure",
+      "theme": "Harder variations, but stop with 2 or 3 reps left every set. Snappy form only.",
+      "sessions": [
+        {
+          "id": "w11-mon",
+          "day": "Monday",
+          "title": "Lower Body",
+          "focus": "lower",
+          "legLoad": "normal",
+          "durationMin": 25,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "tempo-goblet-squat-2lb",
+              "sets": 3,
+              "reps": "6-10",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Sit back, heels down, knees follow the toes.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false,
+              "tempo": "3-1-1"
+            },
+            {
+              "exerciseId": "pause-rdl-2lb",
+              "sets": 3,
+              "reps": "6-10",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Hips back, long back, no rounding.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false,
+              "tempo": "2-2-1"
+            },
+            {
+              "exerciseId": "step-up-2lb",
+              "sets": 3,
+              "reps": "6-8 each leg",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Whole foot on the stool. Grown-up close. Non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": true
+            },
+            {
+              "exerciseId": "pause-calf-raise",
+              "sets": 3,
+              "reps": "8-10",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Pause at the top, lower slowly. Hold on for balance if you need it.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "dead-bug",
+              "sets": 2,
+              "reps": "6 each side",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": true
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "20 seconds each",
+              "target": "Gentle, no bouncing.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "calf-stretch",
+              "sets": 1,
+              "reps": "20 seconds each",
+              "target": "Gentle, heel down.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        },
+        {
+          "id": "w11-wed",
+          "day": "Wednesday",
+          "title": "Full Body",
+          "focus": "full",
+          "legLoad": "easy",
+          "durationMin": 25,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-pull-apart",
+              "sets": 1,
+              "reps": "8",
+              "target": "Easy posture wake-up.",
+              "restSec": 0,
+              "load": "light band",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "knee-pushup",
+              "sets": 3,
+              "reps": "6-10",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Straight body, no sagging hips. Stool on a non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "pause-band-row",
+              "sets": 3,
+              "reps": "6-10",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Bar is checked and secure. Squeeze the shoulder blades. No leaning way back.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "pause-glute-bridge",
+              "sets": 3,
+              "reps": "8-10",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Tidy form. Stop with 2 or 3 reps left.",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "tempo-curl-2lb",
+              "sets": 3,
+              "reps": "8-10",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. No swinging. Elbows stay by the sides. Enjoy these!",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false,
+              "tempo": "1-0-3"
+            },
+            {
+              "exerciseId": "dead-bug",
+              "sets": 2,
+              "reps": "6 each side",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": true
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "chest-opener",
+              "sets": 1,
+              "reps": "20 seconds",
+              "target": "Easy stretch, relaxed shoulders.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "15 seconds each",
+              "target": "Quick and gentle.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 15
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        },
+        {
+          "id": "w11-fri",
+          "day": "Friday",
+          "title": "Upper Body (easy legs)",
+          "focus": "upper",
+          "legLoad": "none",
+          "durationMin": 25,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-pull-apart",
+              "sets": 1,
+              "reps": "8",
+              "target": "Easy posture wake-up.",
+              "restSec": 0,
+              "load": "light band",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "knee-pushup",
+              "sets": 3,
+              "reps": "6-10",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Straight body, no sagging hips. Stool on a non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "pause-band-row",
+              "sets": 3,
+              "reps": "6-10",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Bar is checked and secure. Squeeze the shoulder blades. No leaning way back.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "pause-oh-press-2lb",
+              "sets": 3,
+              "reps": "6-10",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Ribs down, press straight up, no big back arch.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "tempo-curl-2lb",
+              "sets": 3,
+              "reps": "8-10",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. No swinging. Elbows stay by the sides. Enjoy these!",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false,
+              "tempo": "1-0-3"
+            },
+            {
+              "exerciseId": "scapular-shrug",
+              "sets": 3,
+              "reps": "6-8",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Bar is checked and secure. Feet close to the floor. No swinging. Stand up anytime.",
+              "restSec": 40,
+              "load": "bodyweight, supported",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "kneeling-plank",
+              "sets": 2,
+              "reps": "20-25 seconds",
+              "target": "Strong and snappy \u2014 never to failure. Stop with 2 or 3 reps left, even if you could do more. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": false,
+              "holdSec": 22
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "chest-opener",
+              "sets": 1,
+              "reps": "20 seconds",
+              "target": "Easy stretch, relaxed shoulders.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "15 seconds each",
+              "target": "Quick and gentle.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 15
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 12,
+      "phase": "celebration",
+      "phaseLabel": "Form check and celebration",
+      "theme": "Light, fun, and proud. Show off tidy form. No grinding.",
+      "sessions": [
+        {
+          "id": "w12-mon",
+          "day": "Monday",
+          "title": "Lower Body",
+          "focus": "lower",
+          "legLoad": "normal",
+          "durationMin": 22,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "bw-squat",
+              "sets": 2,
+              "reps": "8",
+              "target": "Show your best form. Have fun. Light and proud. Sit back, heels down, knees follow the toes.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "hip-hinge",
+              "sets": 2,
+              "reps": "8",
+              "target": "Show your best form. Have fun. Light and proud. Hips back, long back, no rounding.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "step-up",
+              "sets": 2,
+              "reps": "6 each leg",
+              "target": "Show your best form. Have fun. Light and proud. Whole foot on the stool. Grown-up close. Non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": true
+            },
+            {
+              "exerciseId": "calf-raise",
+              "sets": 2,
+              "reps": "10",
+              "target": "Show your best form. Have fun. Light and proud. Pause at the top, lower slowly. Hold on for balance if you need it.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "dead-bug",
+              "sets": 2,
+              "reps": "5 each side",
+              "target": "Show your best form. Have fun. Light and proud. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": true
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "20 seconds each",
+              "target": "Gentle, no bouncing.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "calf-stretch",
+              "sets": 1,
+              "reps": "20 seconds each",
+              "target": "Gentle, heel down.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        },
+        {
+          "id": "w12-wed",
+          "day": "Wednesday",
+          "title": "Full Body",
+          "focus": "full",
+          "legLoad": "easy",
+          "durationMin": 22,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-pull-apart",
+              "sets": 1,
+              "reps": "8",
+              "target": "Easy posture wake-up.",
+              "restSec": 0,
+              "load": "light band",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "incline-pushup",
+              "sets": 2,
+              "reps": "8",
+              "target": "Show your best form. Have fun. Light and proud. Straight body, no sagging hips. Stool on a non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-row",
+              "sets": 2,
+              "reps": "8-10",
+              "target": "Show your best form. Have fun. Light and proud. Bar is checked and secure. Squeeze the shoulder blades. No leaning way back.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "glute-bridge",
+              "sets": 2,
+              "reps": "8-10",
+              "target": "Show your best form. Have fun. Light and proud. Tidy form. Stop with 2 or 3 reps left.",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "curl-2lb",
+              "sets": 2,
+              "reps": "10-12",
+              "target": "Show your best form. Have fun. Light and proud. No swinging. Elbows stay by the sides. Enjoy these!",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "dead-bug",
+              "sets": 2,
+              "reps": "5 each side",
+              "target": "Show your best form. Have fun. Light and proud. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": true
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "chest-opener",
+              "sets": 1,
+              "reps": "20 seconds",
+              "target": "Easy stretch, relaxed shoulders.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "15 seconds each",
+              "target": "Quick and gentle.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 15
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        },
+        {
+          "id": "w12-fri",
+          "day": "Friday",
+          "title": "Upper Body (easy legs)",
+          "focus": "upper",
+          "legLoad": "none",
+          "durationMin": 22,
+          "warmup": [
+            {
+              "exerciseId": "march-in-place",
+              "sets": 1,
+              "reps": "20 steps",
+              "target": "Easy and quiet feet.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "arm-circles",
+              "sets": 1,
+              "reps": "8 each way",
+              "target": "Slow circles, both directions.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-pull-apart",
+              "sets": 1,
+              "reps": "8",
+              "target": "Easy posture wake-up.",
+              "restSec": 0,
+              "load": "light band",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "easy-squat-rehearsal",
+              "sets": 1,
+              "reps": "5",
+              "target": "Practice sitting back. No strain.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ],
+          "exercises": [
+            {
+              "exerciseId": "incline-pushup",
+              "sets": 2,
+              "reps": "8",
+              "target": "Show your best form. Have fun. Light and proud. Straight body, no sagging hips. Stool on a non-slip floor.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "band-row",
+              "sets": 2,
+              "reps": "8-10",
+              "target": "Show your best form. Have fun. Light and proud. Bar is checked and secure. Squeeze the shoulder blades. No leaning way back.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "oh-press-2lb",
+              "sets": 2,
+              "reps": "8",
+              "target": "Show your best form. Have fun. Light and proud. Ribs down, press straight up, no big back arch.",
+              "restSec": 45,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "curl-2lb",
+              "sets": 2,
+              "reps": "10-12",
+              "target": "Show your best form. Have fun. Light and proud. No swinging. Elbows stay by the sides. Enjoy these!",
+              "restSec": 40,
+              "load": "as written",
+              "eachSide": false
+            },
+            {
+              "exerciseId": "dead-hang-supported",
+              "sets": 2,
+              "reps": "5-10 seconds",
+              "target": "Show your best form. Have fun. Light and proud. Bar is checked and secure. Feet close to the floor. No swinging. Stand up anytime.",
+              "restSec": 40,
+              "load": "bodyweight, supported",
+              "eachSide": false,
+              "holdSec": 8
+            },
+            {
+              "exerciseId": "bird-dog",
+              "sets": 2,
+              "reps": "5 each side",
+              "target": "Show your best form. Have fun. Light and proud. Slow and small if you need to. Quality over how long it lasts.",
+              "restSec": 30,
+              "load": "as written",
+              "eachSide": true
+            }
+          ],
+          "cooldown": [
+            {
+              "exerciseId": "chest-opener",
+              "sets": 1,
+              "reps": "20 seconds",
+              "target": "Easy stretch, relaxed shoulders.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false,
+              "holdSec": 20
+            },
+            {
+              "exerciseId": "hamstring-stretch",
+              "sets": 1,
+              "reps": "15 seconds each",
+              "target": "Quick and gentle.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": true,
+              "holdSec": 15
+            },
+            {
+              "exerciseId": "easy-breathing",
+              "sets": 1,
+              "reps": "4 breaths",
+              "target": "Slow belly breaths.",
+              "restSec": 0,
+              "load": "as written",
+              "eachSide": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
