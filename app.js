@@ -88,6 +88,8 @@ function openHow(exerciseId) {
   const link = $("#how-video");
   if (ex.videoUrl) {
     link.href = ex.videoUrl;
+    link.target = "_blank";
+    link.rel = "noopener noreferrer";
     link.hidden = false;
     const label = ex.videoTitle ? `Watch how — ${ex.videoTitle}` : "Watch how";
     link.textContent = ex.videoSource ? `${label} (${ex.videoSource})` : label;
@@ -657,6 +659,18 @@ async function maybeGate() {
 
 function wire() {
   $("#how-close")?.addEventListener("click", closeHow);
+  $("#how-video")?.addEventListener("click", (e) => {
+    const url = e.currentTarget.getAttribute("href");
+    if (!url) return;
+    // Installed home-screen apps can swallow target=_blank links inside a dialog.
+    // Open explicitly in a new tab or the YouTube app.
+    e.preventDefault();
+    const opened = window.open(url, "_blank", "noopener,noreferrer");
+    if (!opened) {
+      window.location.href = url;
+    }
+  });
+
   $$(".tab").forEach((t) => t.addEventListener("click", () => {
     const view = t.dataset.view;
     if (view === "ten") renderTen();

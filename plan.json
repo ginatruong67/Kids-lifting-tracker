@@ -272,7 +272,10 @@
       ],
       "swapIn": null,
       "illustration": "exercises/march-in-place.svg",
-      "illustrationPng": "exercises/march-in-place.png"
+      "illustrationPng": "exercises/march-in-place.png",
+      "videoUrl": "https://www.youtube.com/watch?v=5OeMNRcjQQU",
+      "videoTitle": "DYNAMIC WARM UP March in Place updated",
+      "videoSource": "Special Olympics"
     },
     "arm-circles": {
       "name": "Arm circles",
@@ -286,7 +289,10 @@
       ],
       "swapIn": null,
       "illustration": "exercises/arm-circles.svg",
-      "illustrationPng": "exercises/arm-circles.png"
+      "illustrationPng": "exercises/arm-circles.png",
+      "videoUrl": "https://www.youtube.com/watch?v=YQMidmi9pb4",
+      "videoTitle": "DYNAMIC WARM UP Arm Circles updated",
+      "videoSource": "Special Olympics"
     },
     "band-pull-apart": {
       "name": "Band pull-apart",
@@ -300,7 +306,10 @@
       ],
       "swapIn": null,
       "illustration": "exercises/band-pull-apart.svg",
-      "illustrationPng": "exercises/band-pull-apart.png"
+      "illustrationPng": "exercises/band-pull-apart.png",
+      "videoUrl": "https://www.youtube.com/watch?v=bYsgk9SrJ48",
+      "videoTitle": "How to Do Band Pull Aparts: A Guide from Physical Therapists",
+      "videoSource": "Hinge Health"
     },
     "easy-squat-rehearsal": {
       "name": "Easy squat rehearsal",
@@ -400,9 +409,9 @@
       "swapIn": null,
       "illustration": "exercises/hip-hinge.svg",
       "illustrationPng": "exercises/hip-hinge.png",
-      "videoUrl": "https://www.youtube.com/watch?v=V8Hdl1FiNt4",
-      "videoTitle": "How to Do a Dumbbell Romanian Deadlift | Proper Form & Technique",
-      "videoSource": "NASM"
+      "videoUrl": "https://www.youtube.com/watch?v=DgWVNfGOSuw",
+      "videoTitle": "DYNAMIC WARM UP Hip Hinges updated",
+      "videoSource": "Special Olympics"
     },
     "rdl-2lb": {
       "name": "Romanian deadlift (2 lb)",
@@ -451,9 +460,9 @@
       "swapIn": "Hold 2s, then later a slightly heavier pair, once unweighted step-ups look easy.",
       "illustration": "exercises/step-up.svg",
       "illustrationPng": "exercises/step-up.png",
-      "videoUrl": "https://www.mayoclinic.org/healthy-lifestyle/fitness/multimedia/step-up/vid-20084661",
-      "videoTitle": "Step-up exercise",
-      "videoSource": "Mayo Clinic"
+      "videoUrl": "https://www.youtube.com/watch?v=URHdW9js6DM",
+      "videoTitle": "Understanding Proper Step Up Form and Technique",
+      "videoSource": "NASM"
     },
     "slow-step-up": {
       "name": "Slow step-down on the stool",
@@ -468,9 +477,9 @@
       "swapIn": "Add 2 lb dumbbells at the sides when the slow step-down is tidy.",
       "illustration": "exercises/slow-step-up.svg",
       "illustrationPng": "exercises/slow-step-up.png",
-      "videoUrl": "https://www.mayoclinic.org/healthy-lifestyle/fitness/multimedia/step-up/vid-20084661",
-      "videoTitle": "Step-up exercise",
-      "videoSource": "Mayo Clinic"
+      "videoUrl": "https://www.youtube.com/watch?v=URHdW9js6DM",
+      "videoTitle": "Understanding Proper Step Up Form and Technique",
+      "videoSource": "NASM"
     },
     "step-up-2lb": {
       "name": "Step-up with 2 lb dumbbells",
@@ -486,9 +495,9 @@
       "swapIn": "A slightly heavier pair later \u2014 only after these look easy.",
       "illustration": "exercises/step-up-2lb.svg",
       "illustrationPng": "exercises/step-up-2lb.png",
-      "videoUrl": "https://www.mayoclinic.org/healthy-lifestyle/fitness/multimedia/step-up/vid-20084661",
-      "videoTitle": "Step-up exercise",
-      "videoSource": "Mayo Clinic"
+      "videoUrl": "https://www.youtube.com/watch?v=URHdW9js6DM",
+      "videoTitle": "Understanding Proper Step Up Form and Technique",
+      "videoSource": "NASM"
     },
     "calf-raise": {
       "name": "Calf raise",
@@ -503,9 +512,9 @@
       "swapIn": null,
       "illustration": "exercises/calf-raise.svg",
       "illustrationPng": "exercises/calf-raise.png",
-      "videoUrl": "https://www.mayoclinic.org/healthy-lifestyle/fitness/multimedia/calf-raise/vid-20084681",
-      "videoTitle": "Calf raise with dumbbell",
-      "videoSource": "Mayo Clinic"
+      "videoUrl": "https://www.youtube.com/watch?v=tPGEUBtiC9g",
+      "videoTitle": "DYNAMIC WARM UP Calf Raises updated",
+      "videoSource": "Special Olympics"
     },
     "calf-raise-step": {
       "name": "Calf raise on the stool",
@@ -519,7 +528,10 @@
       ],
       "swapIn": null,
       "illustration": "exercises/calf-raise-step.svg",
-      "illustrationPng": "exercises/calf-raise-step.png"
+      "illustrationPng": "exercises/calf-raise-step.png",
+      "videoUrl": "https://www.youtube.com/watch?v=tPGEUBtiC9g",
+      "videoTitle": "DYNAMIC WARM UP Calf Raises updated",
+      "videoSource": "Special Olympics"
     },
     "pause-calf-raise": {
       "name": "Pause calf raise on the stool",
@@ -533,7 +545,10 @@
       ],
       "swapIn": "Single-leg calf raises later, only when two-foot pauses are easy \u2014 and never to failure.",
       "illustration": "exercises/pause-calf-raise.svg",
-      "illustrationPng": "exercises/pause-calf-raise.png"
+      "illustrationPng": "exercises/pause-calf-raise.png",
+      "videoUrl": "https://www.youtube.com/watch?v=tPGEUBtiC9g",
+      "videoTitle": "DYNAMIC WARM UP Calf Raises updated",
+      "videoSource": "Special Olympics"
     },
     "glute-bridge": {
       "name": "Glute bridge",
@@ -633,7 +648,10 @@
       ],
       "swapIn": "A slightly thicker band, or later a one-arm dumbbell row with a 3\u20138 lb weight, hand supported on the stool.",
       "illustration": "exercises/band-row.svg",
-      "illustrationPng": "exercises/band-row.png"
+      "illustrationPng": "exercises/band-row.png",
+      "videoUrl": "https://www.youtube.com/watch?v=qykwviNOIyc",
+      "videoTitle": "How to do a Standing Tubing Row",
+      "videoSource": "NASM"
     },
     "pause-band-row": {
       "name": "Pause band row",
@@ -648,7 +666,10 @@
       ],
       "swapIn": "One-arm dumbbell rows later if you buy slightly heavier dumbbells.",
       "illustration": "exercises/pause-band-row.svg",
-      "illustrationPng": "exercises/pause-band-row.png"
+      "illustrationPng": "exercises/pause-band-row.png",
+      "videoUrl": "https://www.youtube.com/watch?v=qykwviNOIyc",
+      "videoTitle": "How to do a Standing Tubing Row",
+      "videoSource": "NASM"
     },
     "oh-press-2lb": {
       "name": "Overhead press (2 lb)",
@@ -662,7 +683,10 @@
       ],
       "swapIn": "A 3 or 5 lb pair once the 2s are very easy at the top of the range.",
       "illustration": "exercises/oh-press-2lb.svg",
-      "illustrationPng": "exercises/oh-press-2lb.png"
+      "illustrationPng": "exercises/oh-press-2lb.png",
+      "videoUrl": "https://www.youtube.com/watch?v=MMjBnEBnZKM",
+      "videoTitle": "How to do a Dumbbell Overhead Press",
+      "videoSource": "NASM"
     },
     "pause-oh-press-2lb": {
       "name": "Pause overhead press (2 lb)",
@@ -676,7 +700,10 @@
       ],
       "swapIn": "Slightly heavier light dumbbells later.",
       "illustration": "exercises/pause-oh-press-2lb.svg",
-      "illustrationPng": "exercises/pause-oh-press-2lb.png"
+      "illustrationPng": "exercises/pause-oh-press-2lb.png",
+      "videoUrl": "https://www.youtube.com/watch?v=MMjBnEBnZKM",
+      "videoTitle": "How to do a Dumbbell Overhead Press",
+      "videoSource": "NASM"
     },
     "curl-2lb": {
       "name": "Biceps curl (2 lb)",
@@ -691,9 +718,9 @@
       "swapIn": "A 3 or 5 lb pair once every set hits the top of the range with no swing.",
       "illustration": "exercises/curl-2lb.svg",
       "illustrationPng": "exercises/curl-2lb.png",
-      "videoUrl": "https://www.mayoclinic.org/healthy-lifestyle/fitness/multimedia/biceps-curl/vid-20084675",
-      "videoTitle": "Biceps curl with dumbbell",
-      "videoSource": "Mayo Clinic"
+      "videoUrl": "https://www.youtube.com/watch?v=cBSD6mQIPQk",
+      "videoTitle": "Dumbbell Bicep Curl | Nuffield Health",
+      "videoSource": "Nuffield Health"
     },
     "tempo-curl-2lb": {
       "name": "Slow biceps curl (2 lb)",
@@ -708,9 +735,9 @@
       "swapIn": "Same slow tempo with a slightly heavier pair later.",
       "illustration": "exercises/tempo-curl-2lb.svg",
       "illustrationPng": "exercises/tempo-curl-2lb.png",
-      "videoUrl": "https://www.mayoclinic.org/healthy-lifestyle/fitness/multimedia/biceps-curl/vid-20084675",
-      "videoTitle": "Biceps curl with dumbbell",
-      "videoSource": "Mayo Clinic"
+      "videoUrl": "https://www.youtube.com/watch?v=cBSD6mQIPQk",
+      "videoTitle": "Dumbbell Bicep Curl | Nuffield Health",
+      "videoSource": "Nuffield Health"
     },
     "dead-hang-supported": {
       "name": "Supported dead hang",
@@ -786,7 +813,10 @@
       ],
       "swapIn": null,
       "illustration": "exercises/kneeling-plank.svg",
-      "illustrationPng": "exercises/kneeling-plank.png"
+      "illustrationPng": "exercises/kneeling-plank.png",
+      "videoUrl": "https://www.youtube.com/watch?v=iDSHokfXqyA",
+      "videoTitle": "How To Plank From Knee (Modified Plank)",
+      "videoSource": "PureGym"
     },
     "cat-cow": {
       "name": "Cat-cow",
@@ -800,7 +830,10 @@
       ],
       "swapIn": null,
       "illustration": "exercises/cat-cow.svg",
-      "illustrationPng": "exercises/cat-cow.png"
+      "illustrationPng": "exercises/cat-cow.png",
+      "videoUrl": "https://www.youtube.com/watch?v=coeTbcQEDhM",
+      "videoTitle": "COOL DOWN Cat Cow Stretch updated",
+      "videoSource": "Special Olympics"
     },
     "hip-flexor-stretch": {
       "name": "Hip flexor stretch",
@@ -831,7 +864,10 @@
       ],
       "swapIn": null,
       "illustration": "exercises/hamstring-stretch.svg",
-      "illustrationPng": "exercises/hamstring-stretch.png"
+      "illustrationPng": "exercises/hamstring-stretch.png",
+      "videoUrl": "https://www.youtube.com/watch?v=5f5aHVj-f9Q",
+      "videoTitle": "How to Do a Standing Hamstring Stretch: A Guide from Physical Therapists",
+      "videoSource": "Hinge Health"
     },
     "chest-opener": {
       "name": "Chest and shoulder opener",
@@ -845,7 +881,10 @@
       ],
       "swapIn": null,
       "illustration": "exercises/chest-opener.svg",
-      "illustrationPng": "exercises/chest-opener.png"
+      "illustrationPng": "exercises/chest-opener.png",
+      "videoUrl": "https://www.youtube.com/watch?v=oPAebeGygXk",
+      "videoTitle": "COOL DOWN Chest Stretch updated",
+      "videoSource": "Special Olympics"
     },
     "single-leg-balance": {
       "name": "Single-leg balance",
@@ -859,7 +898,10 @@
       ],
       "swapIn": null,
       "illustration": "exercises/single-leg-balance.svg",
-      "illustrationPng": "exercises/single-leg-balance.png"
+      "illustrationPng": "exercises/single-leg-balance.png",
+      "videoUrl": "https://www.youtube.com/watch?v=Dtgh2_LFkBQ",
+      "videoTitle": "Single Leg Balance - Ask Doctor Jo",
+      "videoSource": "Ask Doctor Jo"
     },
     "calf-stretch": {
       "name": "Calf stretch",
