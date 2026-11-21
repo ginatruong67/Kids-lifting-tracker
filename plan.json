@@ -202,7 +202,7 @@
           "exerciseId": "hamstring-stretch",
           "sets": 1,
           "reps": "20 seconds each",
-          "target": "Soft knee, long back, no bouncing.",
+          "target": "Sit tall, one leg straight, long back, no bouncing.",
           "restSec": 0,
           "load": "as written",
           "eachSide": true,
@@ -409,9 +409,9 @@
       "swapIn": null,
       "illustration": "exercises/hip-hinge.svg",
       "illustrationPng": "exercises/hip-hinge.png",
-      "videoUrl": "https://www.youtube.com/watch?v=DgWVNfGOSuw",
-      "videoTitle": "DYNAMIC WARM UP Hip Hinges updated",
-      "videoSource": "Special Olympics"
+      "videoUrl": "https://www.youtube.com/watch?v=2W_gXhut5S8",
+      "videoTitle": "How to Do a Hip Hinge: A Guide from Physical Therapists",
+      "videoSource": "Hinge Health"
     },
     "rdl-2lb": {
       "name": "Romanian deadlift (2 lb)",
@@ -684,9 +684,9 @@
       "swapIn": "A 3 or 5 lb pair once the 2s are very easy at the top of the range.",
       "illustration": "exercises/oh-press-2lb.svg",
       "illustrationPng": "exercises/oh-press-2lb.png",
-      "videoUrl": "https://www.youtube.com/watch?v=MMjBnEBnZKM",
-      "videoTitle": "How to do a Dumbbell Overhead Press",
-      "videoSource": "NASM"
+      "videoUrl": "https://www.youtube.com/watch?v=OM23fjJB3-0",
+      "videoTitle": "Standing Dumbbell Press - OPEX Exercise Library",
+      "videoSource": "OPEX Fitness"
     },
     "pause-oh-press-2lb": {
       "name": "Pause overhead press (2 lb)",
@@ -701,9 +701,9 @@
       "swapIn": "Slightly heavier light dumbbells later.",
       "illustration": "exercises/pause-oh-press-2lb.svg",
       "illustrationPng": "exercises/pause-oh-press-2lb.png",
-      "videoUrl": "https://www.youtube.com/watch?v=MMjBnEBnZKM",
-      "videoTitle": "How to do a Dumbbell Overhead Press",
-      "videoSource": "NASM"
+      "videoUrl": "https://www.youtube.com/watch?v=OM23fjJB3-0",
+      "videoTitle": "Standing Dumbbell Press - OPEX Exercise Library",
+      "videoSource": "OPEX Fitness"
     },
     "curl-2lb": {
       "name": "Biceps curl (2 lb)",
@@ -855,8 +855,8 @@
     "hamstring-stretch": {
       "name": "Hamstring stretch",
       "cues": [
-        "One heel out, soft knee, hinge forward a little.",
-        "Long back, no bouncing.",
+        "Sit on the floor with one leg straight and the other bent.",
+        "Keep a long back and reach toward the toes of the straight leg. No bouncing.",
         "Switch sides."
       ],
       "equipment": [
@@ -865,14 +865,14 @@
       "swapIn": null,
       "illustration": "exercises/hamstring-stretch.svg",
       "illustrationPng": "exercises/hamstring-stretch.png",
-      "videoUrl": "https://www.youtube.com/watch?v=5f5aHVj-f9Q",
-      "videoTitle": "How to Do a Standing Hamstring Stretch: A Guide from Physical Therapists",
-      "videoSource": "Hinge Health"
+      "videoUrl": "https://www.youtube.com/watch?v=wr_8aak4Wbc",
+      "videoTitle": "Hamstring Stretch in Long Sitting - Ask Doctor Jo",
+      "videoSource": "Ask Doctor Jo"
     },
     "chest-opener": {
       "name": "Chest and shoulder opener",
       "cues": [
-        "Stand in a doorway or clasp hands behind you and lift gently.",
+        "Clasp your hands behind your back and lift them gently.",
         "Easy stretch, breathe.",
         "Shoulders stay relaxed."
       ],
