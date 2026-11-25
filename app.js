@@ -71,6 +71,17 @@ function showView(name) {
 }
 
 
+function startClassBlock(kind) {
+  const cv = (PLAN.classVideos || {})[kind];
+  if (!cv || !cv.url) return "";
+  const sub = [cv.title, cv.source, cv.durationMin ? `${cv.durationMin} min` : ""].filter(Boolean).join(" • ");
+  return `<div class="class-box" data-testid="class-box">
+      <a class="btn primary start-class-btn" data-testid="start-class" data-open-external href="${escapeHtml(cv.url)}" target="_blank" rel="noopener noreferrer">Start class</a>
+      <p class="meta class-meta">${escapeHtml(sub)}</p>
+      ${cv.note ? `<p class="meta class-note">${escapeHtml(cv.note)}</p>` : ""}
+    </div>`;
+}
+
 function howButton(exerciseId) {
   return `<button type="button" class="btn ghost how-btn" data-how="${escapeHtml(exerciseId)}" data-testid="how-button">How?</button>`;
 }
@@ -481,6 +492,7 @@ async function renderTen() {
       <h2>About ${ten.minutes} easy minutes</h2>
       <p class="meta">${escapeHtml(ten.blurb)}</p>
       <p class="meta">Saving for Week ${week}, ${day}. Check each move when you finish it.</p>
+      ${startClassBlock("ten")}
       <ul class="check-list" data-testid="tylers-ten">${items}</ul>
       ${coachMetaHtml(saved, { includeFin: false })}
     </div>`;
@@ -538,6 +550,7 @@ async function renderSession(sessionId) {
       <p class="eyebrow">Week ${week.week} • ${escapeHtml(week.phaseLabel)}</p>
       <h2>${escapeHtml(session.day)} • ${escapeHtml(session.title)}</h2>
       <p class="meta">About ${session.durationMin} minutes. Leave 2 or 3 reps in the tank.</p>
+      ${startClassBlock("strength")}
       ${block("Warm-up (easy)", session.warmup, false)}
       ${block("Strength work", session.exercises, true)}
       ${block("Cool-down", session.cooldown, false)}
@@ -677,6 +690,18 @@ function wire() {
     showView(view);
   }));
   document.body.addEventListener("click", (e) => {
+    const ext = e.target.closest("[data-open-external]");
+    if (ext) {
+      const url = ext.getAttribute("href");
+      if (url) {
+        e.preventDefault();
+        const opened = window.open(url, "_blank", "noopener,noreferrer");
+        if (!opened) {
+          window.location.href = url;
+        }
+      }
+      return;
+    }
     const copyBtn = e.target.closest("[data-copy-coach]");
     if (copyBtn) {
       e.preventDefault();

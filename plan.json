@@ -5540,5 +5540,21 @@
         }
       ]
     }
-  ]
+  ],
+  "classVideos": {
+    "strength": {
+      "title": "15 Minute Kid-Friendly HIIT Workout [Ages 5 +]",
+      "source": "Juice & Toya",
+      "durationMin": 17,
+      "url": "https://www.youtube.com/watch?v=326GR2A7q-s",
+      "note": "Continuous follow-along class with coaches and two kids, countdown timers, warm-up, squats, knee push-ups, core, and cool-down."
+    },
+    "ten": {
+      "title": "15 Min Full Body Stretch for Flexibility & Mobility",
+      "source": "Kaleigh Cohen Strength",
+      "durationMin": 16,
+      "url": "https://www.youtube.com/watch?v=Kq1RZFV5tM4",
+      "note": "Continuous start-to-finish stretch and mobility follow-along with an on-screen timer."
+    }
+  }
 }
